@@ -1,5 +1,5 @@
 # Cognitive Reframing
-This repository contains the code and dataset for the [ACL 2023 publication]() on cognitive reframing of negative thoughts through human-language model interaction.
+This repository contains the code and dataset for the [ACL 2023 publication](https://arxiv.org/abs/2305.02466) on cognitive reframing of negative thoughts through human-language model interaction.
 
 If this code or dataset helps you in your research, please cite the following publication:
 ```bash
@@ -26,7 +26,7 @@ Our code can be compiled on Python 3 environments. The modules used in our code 
 $ pip install -r requirements.txt
 ```
 
-This code uses OpenAI's python library. Please make sure that to set the OPENAI_API_KEY environment variable to your OpenAI API key. You can find your API key at [platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys).
+This code uses OpenAI's python library. Please ensure that you set the OPENAI_API_KEY environment variable to your OpenAI API key. You can find your API key at [platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys).
 
 
 ### 2. Reframing
