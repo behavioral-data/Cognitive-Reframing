@@ -1,0 +1,1077 @@
+{"prompt":"I'm always late ->","completion":" Overgeneralization"}
+{"prompt":"I'm late for the meeting. Everyone will look down upon me ->","completion":" Mind reading"}
+{"prompt":"I'm late for the meeting. Everyone will look down upon me ->","completion":" Fortune telling"}
+{"prompt":"I'm late for the meeting. This shows what a jerk I am ->","completion":" Labeling"}
+{"prompt":"I'm late for the meeting. I'll make a fool of myself ->","completion":" Labeling"}
+{"prompt":"I'm late for the meeting. I'll make a fool of myself ->","completion":" Fortune telling"}
+{"prompt":"I'm late for the meeting. I never do anything right ->","completion":" Overgeneralization"}
+{"prompt":"My tire is flat. I'm so stupid ->","completion":" Labeling"}
+{"prompt":"My tire is flat. I should have gotten a new tire last month ->","completion":" Should statements"}
+{"prompt":"My tire is flat. I must have gotten a new tire last month ->","completion":" Should statements"}
+{"prompt":"Everyone knows how disorganized and selfish I am ->","completion":" Mind reading"}
+{"prompt":"I'm completely self-centered and thoughtless ->","completion":" All-or-nothing thinking"}
+{"prompt":"I'm completely self-centered and thoughtless ->","completion":" Labeling"}
+{"prompt":"My roommate asked me to clean the apartment. She probably hates me ->","completion":" Mind reading"}
+{"prompt":"A good mother spends time with her kids on some activity every night ->","completion":" Overgeneralization"}
+{"prompt":"I'm a total failure ->","completion":" All-or-nothing thinking"}
+{"prompt":"I never do anything right ->","completion":" Overgeneralization"}
+{"prompt":"I always do lousy on tests ->","completion":" Overgeneralization"}
+{"prompt":"The test makes me nervous, so I won't do well on it ->","completion":" Emotional reasoning"}
+{"prompt":"I'll have to skip this section of the book ->","completion":" Fortune telling"}
+{"prompt":"They made a terrible mistake by choosing me ->","completion":" Mind reading"}
+{"prompt":"My writing is too drab ->","completion":" Catastrophizing"}
+{"prompt":"They are not interesting ->","completion":" Labeling"}
+{"prompt":"They are boring ->","completion":" Labeling"}
+{"prompt":"I know this is bad because I feel bored ->","completion":" Emotional reasoning"}
+{"prompt":"This party will be a drag ->","completion":" Fortune telling"}
+{"prompt":"I never get what I want ->","completion":" Overgeneralization"}
+{"prompt":"I'll forget what I'm supposed to say ->","completion":" Fortune telling"}
+{"prompt":"My speech isn't any good ->","completion":" All-or-nothing thinking"}
+{"prompt":"My mind will blank out ->","completion":" Fortune telling"}
+{"prompt":"I'll make a fool of myself ->","completion":" Labeling"}
+{"prompt":"I'll make a fool of myself ->","completion":" Fortune telling"}
+{"prompt":"What did I do to foul things up? ->","completion":" Personalization"}
+{"prompt":"I'll never get this done ->","completion":" Fortune telling"}
+{"prompt":"I'll never get this done ->","completion":" Overgeneralization"}
+{"prompt":"I should be well by now ->","completion":" Should statements"}
+{"prompt":"I must be well by now ->","completion":" Should statements"}
+{"prompt":"I'm not getting anywhere ->","completion":" All-or-nothing thinking"}
+{"prompt":"That improvement was a fluke ->","completion":" Disqualifying the positive"}
+{"prompt":"I'll never get better ->","completion":" Catastrophizing"}
+{"prompt":"I just can't control myself ->","completion":" All-or-nothing thinking"}
+{"prompt":"I must look like a balloon ->","completion":" Labeling"}
+{"prompt":"My dieting and jogging all week have gone down the drain ->","completion":" Disqualifying the positive"}
+{"prompt":"I shouldn't have eaten that ->","completion":" Should statements"}
+{"prompt":"I mustn't have eaten that ->","completion":" Should statements"}
+{"prompt":"I'm going to pig out all weekend ->","completion":" Fortune telling"}
+{"prompt":"I'm a bad mother ->","completion":" Labeling"}
+{"prompt":"The recruiters didn't call me. I haven't got the job, in the past when I was successful, I was called straight away ->","completion":" Overgeneralizing"}
+{"prompt":"I will end up with no career ->","completion":" Catastrophizing"}
+{"prompt":"I will end up with no money ->","completion":" Catastrophizing"}
+{"prompt":"I haven't got the job ->","completion":" Fortune telling"}
+{"prompt":"I spent 3 hours but was only able to make 2 slides. I've wasted all that time ->","completion":" Disqualifying the positive"}
+{"prompt":"Looks like the customer got scared ->","completion":" Mind reading"}
+{"prompt":"I have made the matters worse ->","completion":" Personalization"}
+{"prompt":"A stranger looked at your dress. She thought that I look stupid ->","completion":" Mind reading"}
+{"prompt":"I should have never worn these jeans ->","completion":" Should statements"}
+{"prompt":"I must have never worn these jeans ->","completion":" Should statements"}
+{"prompt":"I almost failed in a subject. I have ruined everything ->","completion":" All-or-nothing thinking"}
+{"prompt":"I only got good grades in two subjects. How could I have done so badly? ->","completion":" Disqualifying the positive"}
+{"prompt":"I am a failure! ->","completion":" Labeling"}
+{"prompt":"I made a mistake in my presentation. People are going to think I am stupid ->","completion":" Mind reading"}
+{"prompt":"I'm such an idiot ->","completion":" Labeling"}
+{"prompt":"The meal should have been perfect ->","completion":" Should statements"}
+{"prompt":"The meal must have been perfect ->","completion":" Should statements"}
+{"prompt":"My friends are not replying to my messages. They obviously don't want to be friends with me ->","completion":" Mind reading"}
+{"prompt":"My friends are not talking to me. It must be my fault ->","completion":" Personalization"}
+{"prompt":"I posted a joke online but none of my friends reacted. I will lose my friends because of this ->","completion":" Catastrophizing"}
+{"prompt":"If I am feeling this guilty right now, this must mean that I did something wrong ->","completion":" Emotional reasoning"}
+{"prompt":"Maybe people found my joke offensive ->","completion":" Mind reading"}
+{"prompt":"I shouldn't have changed my hair ->","completion":" Should statements"}
+{"prompt":"Most of them didn't mention my hair ->","completion":" Catastrophizing"}
+{"prompt":"I am a lousy writer ->","completion":" Labeling"}
+{"prompt":"I didn't win so I must be completely rubbish ->","completion":" All-or-nothing thinking"}
+{"prompt":"Being a runner up means nothing ->","completion":" Disqualifying the positive"}
+{"prompt":"They probably made everyone a runner up to make people feel better ->","completion":" Mind reading"}
+{"prompt":"I will never become a successful writer ->","completion":" Fortune telling"}
+{"prompt":"I am an awful person ->","completion":" Labeling"}
+{"prompt":"They think that I am a horrible human being ->","completion":" Mind reading"}
+{"prompt":"I have lost my temper like this in the previous job and was called into a disciplinary meeting, I will probably lose my job over this ->","completion":" Overgeneralization"}
+{"prompt":"I will probably lose my job over this ->","completion":" Fortune telling"}
+{"prompt":"I will probably lose my job over this ->","completion":" Catastrophizing"}
+{"prompt":"I feel so anxious maybe I left something turned on in the kitchen ->","completion":" Emotional reasoning"}
+{"prompt":"What if something falls on the coffee maker and turns in on ->","completion":" Fortune telling"}
+{"prompt":"What if the whole kitchen sets on fire ->","completion":" Catastrophizing"}
+{"prompt":"My entire house will burn down ->","completion":" Catastrophizing"}
+{"prompt":"I will be homeless ->","completion":" Catastrophizing"}
+{"prompt":"The doctor probably just didn't want to let me know ->","completion":" Mind reading"}
+{"prompt":"They want to see me so this must be really bad ->","completion":" Disqualifying the positive"}
+{"prompt":"The color in their work is so much more vibrant, mine doesn't look this good ->","completion":" Comparing"}
+{"prompt":"I bet people think now that I am a rubbish artist ->","completion":" Mind reading"}
+{"prompt":"I shouldn't have posted it ->","completion":" Should statements"}
+{"prompt":"Grandma is going to be so angry with me ->","completion":" Mind reading"}
+{"prompt":"Grandma is going to be so angry with me ->","completion":" Fortune telling"}
+{"prompt":"She is probably going to kick me out and never invite me over again ->","completion":" Catastrophizing"}
+{"prompt":"I am such an idiot ->","completion":" Labeling"}
+{"prompt":"If I couldn't make this relationship work, I will never succeed at finding a lifelong partner ->","completion":" Overgeneralization"}
+{"prompt":"I am unlovable ->","completion":" Labeling"}
+{"prompt":"If she has cheated on me, then every next girl will probably do the same ->","completion":" Overgeneralization"}
+{"prompt":"I can't believe I have lost her now ->","completion":" Disqualifying the positive"}
+{"prompt":"She will not want to see me again ->","completion":" Fortune telling"}
+{"prompt":"She will not want to see me again ->","completion":" Catastrophizing"}
+{"prompt":"She must think that I am a weirdo ->","completion":" Mind reading"}
+{"prompt":"I should have ordered a milder dish ->","completion":" Should statements"}
+{"prompt":"I must have ordered a milder dish ->","completion":" Should statements"}
+{"prompt":"I'm late again. My boss will be furious with me like he was last week when I was late because I overslept ->","completion":" Overgeneralization"}
+{"prompt":"I will lose my job over this ->","completion":" Catastrophizing"}
+{"prompt":"I will lose my job over this ->","completion":" Fortune telling"}
+{"prompt":"My present was much smaller in size than the others ->","completion":" Comparing"}
+{"prompt":"She said she liked it, but she said that to everyone, so she was probably just trying to be nice ->","completion":" Disqualifying the positive"}
+{"prompt":"I made this so awkward ->","completion":" Emotional reasoning"}
+{"prompt":"I will get murdered! ->","completion":" Catastrophizing"}
+{"prompt":"My friend had been robbed last month and they broke in through the kitchen ->","completion":" Overgeneralization"}
+{"prompt":"Something scary is in the kitchen ->","completion":" Emotional reasoning"}
+{"prompt":"I have never done bowling before, so I will definitely be bad at this ->","completion":" All-or-nothing thinking"}
+{"prompt":"Maybe they invited me to make fun of me ->","completion":" Mind reading"}
+{"prompt":"Maybe they knew that I would make a fool of myself ->","completion":" Mind reading"}
+{"prompt":"Something bad has happened to him ->","completion":" Catastrophizing"}
+{"prompt":"Maybe he doesn't like me anymore ->","completion":" Mind reading"}
+{"prompt":"Maybe doesn't want to be my friend any longer ->","completion":" Mind reading"}
+{"prompt":"I should have messaged him earlier ->","completion":" Should statements"}
+{"prompt":"I must message him earlier ->","completion":" Should statements"}
+{"prompt":"I am such a bad friend ->","completion":" Labeling"}
+{"prompt":"Her health could decline further ->","completion":" Fortune telling"}
+{"prompt":"She could die ->","completion":" Catastrophizing"}
+{"prompt":"I should have visited her more often ->","completion":" Should statements"}
+{"prompt":"She probably thinks I am the worst grandchild ever ->","completion":" Mind reading"}
+{"prompt":"I should have spent more time reading reviews before buying ->","completion":" Should statements"}
+{"prompt":"I can return it and get a different one, but I have wasted so much time ->","completion":" Disqualifying the positive"}
+{"prompt":"My niece's birthday party had twice the amount of people ->","completion":" Comparing"}
+{"prompt":"I bet more people will cancel ->","completion":" Fortune telling"}
+{"prompt":"There will be very few people there ->","completion":" Fortune telling"}
+{"prompt":"If there aren't many people there, the party simply can't be a success ->","completion":" All-or-nothing thinking"}
+{"prompt":"Because I lost the elections, I'm a zero ->","completion":" All-or-nothing thinking"}
+{"prompt":"I got a B on my exam. I'm a total failure ->","completion":" All-or-nothing thinking"}
+{"prompt":"The birds are always crapping on my window ->","completion":" Overgeneralization"}
+{"prompt":"I'm never going to get a date ->","completion":" Overgeneralization"}
+{"prompt":"My boss complimented me but they are just being nice ->","completion":" Disqualifying the positive"}
+{"prompt":"Getting good marks was a fluke. It doesn't count ->","completion":" Disqualifying the positive"}
+{"prompt":"I made a mistake. How terrible ->","completion":" Catastrophizing"}
+{"prompt":"I'm always a horrible mother ->","completion":" All-or-nothing thinking"}
+{"prompt":"I'm never going to get it together ->","completion":" All-or-nothing thinking"}
+{"prompt":"My neighbor rushed by me and didn't even acknowledge me. I must have done something wrong ->","completion":" Mind reading"}
+{"prompt":"I submitted my application, but I already know they won't call me back for an interview. ->","completion":" Fortune telling"}
+{"prompt":"Why did I use that word in that email? I'm sure I'm going to get fired ->","completion":" Catastrophizing"}
+{"prompt":"Yeah I got a raise, but it's not big deal ->","completion":" Disqualifying the positive"}
+{"prompt":"I feel like crap, so I'm probably a crappy person ->","completion":" Emotional reasoning"}
+{"prompt":"I should really exercise more ->","completion":" Should statements"}
+{"prompt":"My brother should have talked to me before he made any decisions about where our family is going ->","completion":" Should statements"}
+{"prompt":"I'm so gross ->","completion":" Labeling"}
+{"prompt":"He's so inconsiderate ->","completion":" Labeling"}
+{"prompt":"I'm a huge nobody ->","completion":" Labeling"}
+{"prompt":"They didn't like me, I'm unlovable ->","completion":" All-or-nothing thinking"}
+{"prompt":"Our relationship ended because I was a bad partner ->","completion":" Personalization"}
+{"prompt":"Our project is slowed down because they never made a point to contact me. This is all their fault ->","completion":" Blaming"}
+{"prompt":"We were late to the dinner party and caused the hostess to overcook the meal ->","completion":" Personalization"}
+{"prompt":"If I had only pushed my husband to leave on time, this wouldn't have happened ->","completion":" Personalization"}
+{"prompt":"Stop making me feel bad about myself ->","completion":" Blaming"}
+{"prompt":"I shouldn't be so lazy ->","completion":" Should statements"}
+{"prompt":"I feel it, therefore it must be true ->","completion":" Emotional reasoning"}
+{"prompt":"I'm a loser ->","completion":" Labeling"}
+{"prompt":"I've blown my diet completely ->","completion":" All-or-nothing thinking"}
+{"prompt":"I feel guilty. I must be a rotten person ->","completion":" Emotional reasoning"}
+{"prompt":"I feel hopeless. I must be hopeless ->","completion":" Emotional reasoning"}
+{"prompt":"I shouldn't eat that doughnut ->","completion":" Should statements"}
+{"prompt":"He shouldn't have been so stubborn ->","completion":" Should statements"}
+{"prompt":"I shouldn't have made so many mistakes ->","completion":" Should statements"}
+{"prompt":"If only I were better in bed, he wouldn't beat me ->","completion":" Personalization"}
+{"prompt":"The reason my marriage is so lousy is because my spouse is totally unreasonable ->","completion":" Blaming"}
+{"prompt":"I never say the right thing ->","completion":" Overgeneralization"}
+{"prompt":"Nothing ever goes my way ->","completion":" Overgeneralization"}
+{"prompt":"I felt awkward during my job interview. I am always so awkward ->","completion":" Overgeneralization"}
+{"prompt":"My mom is always upset. She would be fine if I did more to help her ->","completion":" Personalization"}
+{"prompt":"She probably thinks I'm ugly ->","completion":" Mind reading"}
+{"prompt":"I feel like a bad friend, therefore I must be a bad friend ->","completion":" Emotional reasoning"}
+{"prompt":"I should always be friendly ->","completion":" Should statements"}
+{"prompt":"I never do a good enough job on anything ->","completion":" All-or-nothing thinking"}
+{"prompt":"I made a mistake, therefore I'm a failure ->","completion":" All-or-nothing thinking"}
+{"prompt":"I ate more than I planned, so I blew my diet completely ->","completion":" All-or-nothing thinking"}
+{"prompt":"I will fail and it will be unbearable ->","completion":" Fortune telling"}
+{"prompt":"I will fail and it will be unbearable ->","completion":" Catastrophizing"}
+{"prompt":"I passed the exam, but I was just lucky ->","completion":" Disqualifying the positive"}
+{"prompt":"Going to college is not a big deal; anyone can do it ->","completion":" Disqualifying the positive"}
+{"prompt":"I feel she loves me, so it must be true ->","completion":" Emotional reasoning"}
+{"prompt":"I am terrified of planes, so it must be dangerous ->","completion":" Emotional reasoning"}
+{"prompt":"I got a B. This proves how inferior I am ->","completion":" Catastrophizing"}
+{"prompt":"I got an A. It doesn't mean I'm smart ->","completion":" Catastrophizing"}
+{"prompt":"He's thinking I have failed ->","completion":" Mind reading"}
+{"prompt":"She thought I didn't know the project ->","completion":" Mind reading"}
+{"prompt":"He knows I do not like to be touched this way ->","completion":" Mind reading"}
+{"prompt":"Every time I take a day off from work, it rains ->","completion":" Overgeneralization"}
+{"prompt":"You only pay attention to me when I cook food ->","completion":" Overgeneralization"}
+{"prompt":"My husband left me because I was a bad wife ->","completion":" Personalization"}
+{"prompt":"I should have been a better mother ->","completion":" Should statements"}
+{"prompt":"He should have married Ann instead of Mary ->","completion":" Should statements"}
+{"prompt":"My parents are the ones to blame for my unhappiness ->","completion":" Blaming"}
+{"prompt":"It is my fault that my son married a selfish and uncaring person ->","completion":" Personalization"}
+{"prompt":"My father always prefers my elder brother ->","completion":" Comparing"}
+{"prompt":"She is more successful than I am ->","completion":" Comparing"}
+{"prompt":"He thinks I'm an idiot ->","completion":" Mind reading"}
+{"prompt":"If I talk, I will mess up and not say what I mean ->","completion":" Fortune telling"}
+{"prompt":"I will never get into college ->","completion":" Fortune telling"}
+{"prompt":"I will never get into college ->","completion":" Catastrophizing"}
+{"prompt":"I'm disgusting ->","completion":" Labeling"}
+{"prompt":"He's horrible ->","completion":" Labeling"}
+{"prompt":"She's irrelevant ->","completion":" Labeling"}
+{"prompt":"That's what I'm supposed to do, so it doesn't count ->","completion":" Disqualifying the positive"}
+{"prompt":"Those successes were easy, so they don't matter ->","completion":" Disqualifying the positive"}
+{"prompt":"I fail all the time ->","completion":" Overgeneralization"}
+{"prompt":"It was a waste of time ->","completion":" All-or-nothing thinking"}
+{"prompt":"I get rejected by everyone ->","completion":" All-or-nothing thinking"}
+{"prompt":"Nothing ever goes my way ->","completion":" All-or-nothing thinking"}
+{"prompt":"I should do well ->","completion":" Should statements"}
+{"prompt":"My relationship ended because I wasn't fun enough ->","completion":" Personalization"}
+{"prompt":"It was my fault my group got a bad grade ->","completion":" Personalization"}
+{"prompt":"She's to blame for the way I feel ->","completion":" Blaming"}
+{"prompt":"My parents caused all my problems ->","completion":" Blaming"}
+{"prompt":"My teacher is the reason I'm not doing well ->","completion":" Blaming"}
+{"prompt":"I feel anxious, therefore I must be in danger ->","completion":" Emotional reasoning"}
+{"prompt":"Others did better than I did on the test ->","completion":" Comparing"}
+{"prompt":"People my age are more successful than I am ->","completion":" Comparing"}
+{"prompt":"I'm unlovable. My friends hang out with me only because they must feel sorry for me ->","completion":" Disqualifying the positive"}
+{"prompt":"“I'm a bad person. I only help others because it makes me feel better about myself ->","completion":" Disqualifying the positive"}
+{"prompt":"I feel sad, therefore I must be depressed ->","completion":" Emotional reasoning"}
+{"prompt":"He thinks I'm a loser ->","completion":" Labeling"}
+{"prompt":"I'll fail the exam ->","completion":" Fortune telling"}
+{"prompt":"I won't get the job ->","completion":" Fortune telling"}
+{"prompt":"I'm undesirable ->","completion":" Labeling"}
+{"prompt":"That's what wives are supposed to do. So it doesn't count when she's nice to me ->","completion":" Disqualifying the positive"}
+{"prompt":"I seem to fail at everything ->","completion":" Overgeneralization"}
+{"prompt":"The marriage ended because I failed ->","completion":" Personalization"}
+{"prompt":"I did that really badly ->","completion":" All-or-nothing thinking"}
+{"prompt":"Everything always goes badly for me ->","completion":" Overgeneralization"}
+{"prompt":"Mary doesn't like me at all ->","completion":" Mind reading"}
+{"prompt":"I should have completed everything I planned to do ->","completion":" Should statements"}
+{"prompt":"I'm pathetic ->","completion":" Labeling"}
+{"prompt":"That was really a terrible day ->","completion":" Catastrophizing"}
+{"prompt":"I didn't get all my work done today again. I'll get the sack ->","completion":" Catastrophizing"}
+{"prompt":"I made a real fool of myself at that party ->","completion":" Labeling"}
+{"prompt":"I made a real fool of myself at that party ->","completion":" Catastrophizing"}
+{"prompt":"My husband didn't eat that chocolate cake I baked for him. He thinks I'm a terrible cook ->","completion":" Mind reading"}
+{"prompt":"That was a terrible mistake; I'll never learn to do this properly ->","completion":" Overgeneralization"}
+{"prompt":"I must make a good impression at this party ->","completion":" Should statements"}
+{"prompt":"I was so irritable with the children this morning. I'm a terrible mother and a wicked person ->","completion":" Overgeneralization"}
+{"prompt":"I can't stand being alone now that Jane has gone ->","completion":" Disqualifying the positive"}
+{"prompt":"I must be really stupid to have these distorted thoughts ->","completion":" Personalization"}
+{"prompt":"Mary doesn't like me at all. She would never have shouted at me like that if she did ->","completion":" Personalization"}
+{"prompt":"I'll never be able to face them again ->","completion":" Catastrophizing"}
+{"prompt":"I'll never be able to face them again ->","completion":" Fortune telling"}
+{"prompt":"I'll never manage to stand up for myself. I never have ->","completion":" Catastrophizing"}
+{"prompt":"I'll never manage to stand up for myself. I never have ->","completion":" Fortune telling"}
+{"prompt":"If I'm not a total success, I'm a failure ->","completion":" All-or-nothing thinking"}
+{"prompt":"I'll be so upset, I won't be able to function at all ->","completion":" Catastrophizing"}
+{"prompt":"I did that project well, but that doesn't mean I'm competent; I just got lucky ->","completion":" Disqualifying the positive"}
+{"prompt":"Getting a mediocre evaluation proves how inadequate I am ->","completion":" Catastrophizing"}
+{"prompt":"Getting high marks doesn't mean I am smart ->","completion":" Disqualifying the positive"}
+{"prompt":"I was so uncomfortable talking to this person. I don't have what it takes to make friends ->","completion":" Overgeneralization"}
+{"prompt":"The repairman was curt to me because I did something wrong ->","completion":" Personalization"}
+{"prompt":"I should always do my best ->","completion":" Should statements"}
+{"prompt":"My son's teacher cannot do anything right ->","completion":" Blaming"}
+{"prompt":"If I did not have friends, I would be lonely ->","completion":" All-or-nothing thinking"}
+{"prompt":"feeling down ->","completion":" Not distorted"}
+{"prompt":"guilt of losing a friend ->","completion":" Not distorted"}
+{"prompt":"i'm worried about my chest pain ->","completion":" Not distorted"}
+{"prompt":"turning my mind off ->","completion":" Not distorted"}
+{"prompt":"my partner left me ->","completion":" Not distorted"}
+{"prompt":"afraid of people ->","completion":" Not distorted"}
+{"prompt":"ashamed and embarressed ->","completion":" Not distorted"}
+{"prompt":"my phyical appearance ->","completion":" Not distorted"}
+{"prompt":"school and my future ->","completion":" Not distorted"}
+{"prompt":"keeping a good relationship with my son ->","completion":" Not distorted"}
+{"prompt":"concentrate on one thing at the time ->","completion":" Not distorted"}
+{"prompt":"i don't know ->","completion":" Not distorted"}
+{"prompt":"it's too loud in here ->","completion":" Not distorted"}
+{"prompt":"possible heart problems ->","completion":" Not distorted"}
+{"prompt":"parents are a thing ->","completion":" Not distorted"}
+{"prompt":"health concerns, financial insecurity, living independently again ->","completion":" Not distorted"}
+{"prompt":"i feel good ->","completion":" Not distorted"}
+{"prompt":"i feel bad ->","completion":" Not distorted"}
+{"prompt":"i feel angry ->","completion":" Not distorted"}
+{"prompt":"i am sad ->","completion":" Not distorted"}
+{"prompt":"i am feeling lonely ->","completion":" Not distorted"}
+{"prompt":"i'm going to prison ->","completion":" Not distorted"}
+{"prompt":"why am i sad? ->","completion":" Not distorted"}
+{"prompt":"we don't have money ->","completion":" Not distorted"}
+{"prompt":"I am worried about my finances ->","completion":" Not distorted"}
+{"prompt":"ptsd and anxiety ->","completion":" Not distorted"}
+{"prompt":"my kids getting older ->","completion":" Not distorted"}
+{"prompt":"school grades future ->","completion":" Not distorted"}
+{"prompt":"missing my new ex-boyfriend so much ->","completion":" Not distorted"}
+{"prompt":"missing my ex boyfriend ->","completion":" Not distorted"}
+{"prompt":"my mental health ->","completion":" Not distorted"}
+{"prompt":"felling like here but not ->","completion":" Not distorted"}
+{"prompt":"feeling so flat and unmotivated ->","completion":" Not distorted"}
+{"prompt":"depression and relationship issue ->","completion":" Not distorted"}
+{"prompt":"guilt and anxiety ->","completion":" Not distorted"}
+{"prompt":"my relationship is going downhill ->","completion":" Not distorted"}
+{"prompt":"i lost what i used to be proud of ->","completion":" Not distorted"}
+{"prompt":"i feel like i'm drowning ->","completion":" Not distorted"}
+{"prompt":"my husbands infidelity ->","completion":" Not distorted"}
+{"prompt":"relationship problem with wife ->","completion":" Not distorted"}
+{"prompt":"feeling like i belong ->","completion":" Not distorted"}
+{"prompt":"i don't want to fail my board exam again ->","completion":" Not distorted"}
+{"prompt":"looks, weight, social ability ->","completion":" Not distorted"}
+{"prompt":"i cant sleep ->","completion":" Not distorted"}
+{"prompt":"to get out of my marriage ->","completion":" Not distorted"}
+{"prompt":"how do i start to love myself? ->","completion":" Not distorted"}
+{"prompt":"I didn't do very well at dieting ->","completion":" Not distorted"}
+{"prompt":"Communication worries ->","completion":" Not distorted"}
+{"prompt":"I need to develop myself in that direction ->","completion":" Not distorted"}
+{"prompt":"I need to learn more ->","completion":" Not distorted"}
+{"prompt":"I need a change of pace ->","completion":" Not distorted"}
+{"prompt":"Worry about ability to survive ->","completion":" Not distorted"}
+{"prompt":"Lack of monetary income ->","completion":" Not distorted"}
+{"prompt":"I am insecure about my relations ->","completion":" Not distorted"}
+{"prompt":"I would have to devote myself to bettering that aspect of myself ->","completion":" Not distorted"}
+{"prompt":"i got a no for answer ->","completion":" Not distorted"}
+{"prompt":"i really wanted to go on a date with that person ->","completion":" Not distorted"}
+{"prompt":"I don't want her to leave home ->","completion":" Not distorted"}
+{"prompt":"going to fail at my interview ->","completion":" Fortune telling"}
+{"prompt":"i'm worried that i won't develop better discipline ->","completion":" Fortune telling"}
+{"prompt":"what if we never get engaged ->","completion":" Overgeneralization"}
+{"prompt":"i'll never lose enough weight to look skinny ->","completion":" Fortune telling"}
+{"prompt":"i'm so weak, helpless and out of control ->","completion":" Labeling"}
+{"prompt":"i'm going to be lonely forever ->","completion":" Overgeneralization"}
+{"prompt":"my parents don't love me and they never will ->","completion":" Overgeneralization"}
+{"prompt":"if i can't pass in college, i can't get a good job, or a good life ->","completion":" All-or-nothing thinking"}
+{"prompt":"that i am alone and always will be ->","completion":" Overgeneralization"}
+{"prompt":"that i am alone and always will be ->","completion":" Fortune telling"}
+{"prompt":"that i am alone and always will be ->","completion":" Catastrophizing"}
+{"prompt":"i am unwanted ->","completion":" Labeling"}
+{"prompt":"not being smart enough ->","completion":" All-or-nothing thinking"}
+{"prompt":"lack of sexual interest from my significant other ->","completion":" Blaming"}
+{"prompt":"i hate to be told anything ->","completion":" Overgeneralization"}
+{"prompt":"what if i stop breathing for no reason? ->","completion":" Catastrophizing"}
+{"prompt":"what if I die ->","completion":" Catastrophizing"}
+{"prompt":"I will die ->","completion":" Catastrophizing"}
+{"prompt":"someday i'll stop trying ->","completion":" Catastrophizing"}
+{"prompt":"feeling unworthy ->","completion":" Labeling"}
+{"prompt":"i'm never going to live a normal life ->","completion":" Overgeneralization"}
+{"prompt":"i'm never going to live a normal life ->","completion":" Fortune telling"}
+{"prompt":"i'm never going to live a normal life ->","completion":" Catastrophizing"}
+{"prompt":"about my boyfriend if he's cheating on me again ->","completion":" Mind reading"}
+{"prompt":"the worthlessness of life ->","completion":" Disqualifying the positive"}
+{"prompt":"everyone hates me, including me ->","completion":" Overgeneralization"}
+{"prompt":"i should be sleeping ->","completion":" Should statements"}
+{"prompt":"afraid something i did will hurt me ->","completion":" Fortune telling"}
+{"prompt":"afraid something i did will hurt me ->","completion":" Emotional reasoning"}
+{"prompt":"i overthink the worst possibility to happen ->","completion":" Catastrophizing"}
+{"prompt":"i can't ever relax ->","completion":" Overgeneralization"}
+{"prompt":"always going to be lonely ->","completion":" Overgeneralization"}
+{"prompt":"i dont have a full purpose ->","completion":" All-or-nothing thinking"}
+{"prompt":"I don't have enough willpower ->","completion":" Overgeneralization"}
+{"prompt":"I might lose my job ->","completion":" Catastrophizing"}
+{"prompt":"I am not a good person in society ->","completion":" Labeling"}
+{"prompt":"I am not a good person in society ->","completion":" All-or-nothing thinking"}
+{"prompt":"This person is not my boss and is not even providing accurate information! Why are they acting like this? ->","completion":" Mind reading"}
+{"prompt":"Because other did better than me ->","completion":" Comparing"}
+{"prompt":"I should have behaved differently ->","completion":" Should statements"}
+{"prompt":"I don't think I can get all my work done today ->","completion":" Fortune telling"}
+{"prompt":"I could get fired ->","completion":" Catastrophizing"}
+{"prompt":"She doesn't like the way I look ->","completion":" Mind reading"}
+{"prompt":"My girlfriend wasnt texting anyone, and did not get me anniversary present I am scared my girlfriend is going to break up with me because I dont do much for her. ->","completion":" Catastrophizing"}
+{"prompt":"I am unable to give my children any time A good mother spends time with her kids on some activity every night ->","completion":" Overgeneralizing"}
+{"prompt":"Would my death have an impact on people? Like is there anyone on here that's had someone close to them commit suicide and knows what it's like? Would anyone care if I died? ->","completion":" Overgeneralizing"}
+{"prompt":"Stomach ache every day I might be having a serious illness ->","completion":" Catastrophizing"}
+{"prompt":"Stomach ache every day I might be having a serious illness ->","completion":" Fortune telling"}
+{"prompt":"My son threw a tantrum at an indoor playground and I had to carry him out kicking and screaming I'm a bad mom ->","completion":" Labeling"}
+{"prompt":"My son threw a tantrum at an indoor playground and I had to carry him out kicking and screaming I'm a bad mom ->","completion":" Negative feeling or emotion"}
+{"prompt":"im scared of the human mind i cant trust people ->","completion":" Emotional reasoning"}
+{"prompt":"Being transgender I'm not who I want to be. I hate my appearance and my voice. ->","completion":" Catastrophizing"}
+{"prompt":"I made very good English presentation but I got nervous because of the amount of people and I forgot my text I'm scared to present in front of other people and I panic ->","completion":" Catastrophizing"}
+{"prompt":"i still can't speak or understand korean, even after 6 months here i'm not good enough ->","completion":" Overgeneralizing"}
+{"prompt":"My manager is giving more responsibilities to another co-worker. I deserve more than the other co-worker to get more responsibilities. ->","completion":" Personalizing"}
+{"prompt":"My husband did something for me even if it's clear I didn't want it. I don't know why I keep trying. I should just give up. Surrender. Sleep forever. ->","completion":" Catastrophizing"}
+{"prompt":"I get so annoyed and frustrated when my baby cries i am a terrible mom ->","completion":" Negative feeling or emotion"}
+{"prompt":"Breakup after loving truly. I am scared of my future life and being in sorrow of breakup and didn't feel light of overthinking ->","completion":" Emotional reasoning"}
+{"prompt":"My wife has left me. I'm going to be alone ->","completion":" Catastrophizing"}
+{"prompt":"I applied for a job and just got a call saying I didn't get the job. I am not good enough for anyone. ->","completion":" Labeling"}
+{"prompt":"I applied for a job and just got a call saying I didn't get the job. I am not good enough for anyone. ->","completion":" All-or-nothing thinking"}
+{"prompt":"I'm late for the meeting This shows what a jerk I am ->","completion":" Labeling"}
+{"prompt":"I had a complaint against my work which I felt unnecessary to bring to my attention as it was very minor. There was no need to even say anything it was very minor. ->","completion":" Catastrophizing"}
+{"prompt":"I had a complaint against my work which I felt unnecessary to bring to my attention as it was very minor. There was no need to even say anything it was very minor. ->","completion":" Negative feeling or emotion"}
+{"prompt":"I was on a date and started to cough badly as the food was too hot I should have ordered a milder dish ->","completion":" Should statements"}
+{"prompt":"My first boyfriend and I broke up. My partner will leave me if my depression doesn't go away soon. ->","completion":" Fortune telling"}
+{"prompt":"A potential client decided to work with another company I failed our company & myself ->","completion":" Personalizing"}
+{"prompt":"I had a disagreement about our finances with my partner at our home about a week ago that caused her to leave the apartment and not talk, call, or text me for hours. I worried that she might break up with me and that I'd never see her again. ->","completion":" Catastrophizing"}
+{"prompt":"I had a disagreement about our finances with my partner at our home about a week ago that caused her to leave the apartment and not talk, call, or text me for hours. I worried that she might break up with me and that I'd never see her again. ->","completion":" Overgeneralizing"}
+{"prompt":"I had a disagreement about our finances with my partner at our home about a week ago that caused her to leave the apartment and not talk, call, or text me for hours. I worried that she might break up with me and that I'd never see her again. ->","completion":" Fortune telling"}
+{"prompt":"I had a disagreement about our finances with my partner at our home about a week ago that caused her to leave the apartment and not talk, call, or text me for hours. I worried that she might break up with me and that I'd never see her again. ->","completion":" Negative feeling or emotion"}
+{"prompt":"I had a disagreement about our finances with my partner at our home about a week ago that caused her to leave the apartment and not talk, call, or text me for hours. I worried that she might break up with me and that I'd never see her again. ->","completion":" All-or-nothing thinking"}
+{"prompt":"I had a disagreement about our finances with my partner at our home about a week ago that caused her to leave the apartment and not talk, call, or text me for hours. I worried that she might break up with me and that I'd never see her again. ->","completion":" Mind reading"}
+{"prompt":"I am trying to write up an essay and can't think of anything I'm wasting all my time ->","completion":" All-or-nothing thinking"}
+{"prompt":"I posted a joke online and none of my friends reacted Maybe my friends found the joke offensive, I'll lose some friends because of this ->","completion":" Catastrophizing"}
+{"prompt":"I have a flight in the evening Something will go wrong on my flight today ->","completion":" Fortune telling"}
+{"prompt":"I had a fight with my husband My best friend doesn't fight with my husband this much, so I must be doing something wrong ->","completion":" Comparing and Despairing"}
+{"prompt":"I do gas stations audits and I messed up and forgot something I was supposed to do I felt like a failure and am ashamed I made this mistake ->","completion":" All-or-nothing thinking"}
+{"prompt":"I do gas stations audits and I messed up and forgot something I was supposed to do I felt like a failure and am ashamed I made this mistake ->","completion":" Negative feeling or emotion"}
+{"prompt":"My diet is not working I feel like a failure ->","completion":" Emotional reasoning"}
+{"prompt":"I was unable to visit my Mother in the hospital in another state. I am the worst daughter in the world. ->","completion":" Labeling"}
+{"prompt":"I was unable to visit my Mother in the hospital in another state. I am the worst daughter in the world. ->","completion":" All-or-nothing thinking"}
+{"prompt":"I was unable to visit my Mother in the hospital in another state. I am the worst daughter in the world. ->","completion":" Negative feeling or emotion"}
+{"prompt":"I'm late for the meeting I never do anything right ->","completion":" Overgeneralizing"}
+{"prompt":"I ask out a co-worker who I became fond of recently but was turned down. I'm not good enough for her. ->","completion":" Negative feeling or emotion"}
+{"prompt":"I ask out a co-worker who I became fond of recently but was turned down. I'm not good enough for her. ->","completion":" Mind reading"}
+{"prompt":"I ask out a co-worker who I became fond of recently but was turned down. I'm not good enough for her. ->","completion":" Personalizing"}
+{"prompt":"My relationship ended out of nowhere, constantly stressed about my job, i ever feel like be worth it to another person or to my friends unless they need something. I don’t feel like I’m worth it. ->","completion":" Not distorted"}
+{"prompt":"I was on a coffee break and my boss reminded me of work that needs to get done. My boss must think I'm lazy. ->","completion":" Mind reading"}
+{"prompt":"I was on a coffee break and my boss reminded me of work that needs to get done. My boss must think I'm lazy. ->","completion":" Personalizing"}
+{"prompt":"A neighbor borrowed my smartphone charger and never returned it. he took me for granted! ->","completion":" Personalizing"}
+{"prompt":"My husband could not understand why I was upset with him. I don't understand why he can't see that he overreacted. ->","completion":" All-or-nothing thinking"}
+{"prompt":"My husband could not understand why I was upset with him. I don't understand why he can't see that he overreacted. ->","completion":" Labeling"}
+{"prompt":"After I complained about not spending time together, my boyfriend did not want to go on a date last weekend. He doesn't love me. ->","completion":" Overgeneralizing"}
+{"prompt":"I'm hanging out with a friend chit chatting, but realizing he's not putting much effort, like usual, into having good conversation.  He just repeats the same thing ad nauseam. He's a nice guy, but I don't want to be friends with him any more as he's putting no effort into not being completely boring. ->","completion":" Labeling"}
+{"prompt":"Time is running short on the workday, my boss asks me if I can finish a task that will require me to stay for a few extra hours. Why would you wait until the last minute to ask me this. ->","completion":" Catastrophizing"}
+{"prompt":"I'm hanging out with a friend chit chatting, but realizing he's not putting much effort, like usual, into having good conversation.  He just repeats the same thing ad nauseam. He's a nice guy, but I don't want to be friends with him any more as he's putting no effort into not being completely boring. ->","completion":" Catastrophizing"}
+{"prompt":"I saw my friend comment on an Instagram post when he's been ignoring me. My friend doesn't like me anymore. ->","completion":" Personalizing"}
+{"prompt":"My first boyfriend and I broke up. My partner will leave me if my depression doesn't go away soon. ->","completion":" Mind reading"}
+{"prompt":"I saw my friend comment on an Instagram post when he's been ignoring me. My friend doesn't like me anymore. ->","completion":" Mind reading"}
+{"prompt":"I missed a personal deadline for a project a friend asked me to help with. I made a deadline and missed it. ->","completion":" Negative feeling or emotion"}
+{"prompt":"My mom cooked me breakfast and the eggs which she knows i like over medium were over cooked. I became very upset. frustration ->","completion":" Disqualifying the Positive"}
+{"prompt":"My friend and I had made plans months ago to go to a basketball game. The day before the game he calls me and says he cant go because he forgot he made plans with his wife. I started yelling at him and told him these tickets were expensive and you promised me. I was really angry for cancelling last minute because he has done this in the past I get upset when people cant keep there promises. The plans he made were not that critical. Why put me in a tough bind ->","completion":" Blaming"}
+{"prompt":"My friend and I had made plans months ago to go to a basketball game. The day before the game he calls me and says he cant go because he forgot he made plans with his wife. I started yelling at him and told him these tickets were expensive and you promised me. I was really angry for cancelling last minute because he has done this in the past I get upset when people cant keep there promises. The plans he made were not that critical. Why put me in a tough bind ->","completion":" Personalizing"}
+{"prompt":"My friend and I had made plans months ago to go to a basketball game. The day before the game he calls me and says he cant go because he forgot he made plans with his wife. I started yelling at him and told him these tickets were expensive and you promised me. I was really angry for cancelling last minute because he has done this in the past I get upset when people cant keep there promises. The plans he made were not that critical. Why put me in a tough bind ->","completion":" Negative feeling or emotion"}
+{"prompt":"My grandma died a few years ago and my aunt recently had major surgery. I'm scared of losing loved ones ->","completion":" Catastrophizing"}
+{"prompt":"I'm afraid of pregnancy and I think i'm not mentally or emotionally prepared I can't be a mother ->","completion":" Emotional reasoning"}
+{"prompt":"My spouse became verbally abusive with me. He might hit me ->","completion":" Not distorted"}
+{"prompt":"I made very good English presentation but I got nervous because of the amount of people and I forgot my text I'm scared to present in front of other people and I panic ->","completion":" Negative feeling or emotion"}
+{"prompt":"I made very good English presentation but I got nervous because of the amount of people and I forgot my text I'm scared to present in front of other people and I panic ->","completion":" Emotional reasoning"}
+{"prompt":"I saw a profile picture of a close friend on a dating app that I had feelings for. I am not the kind of person that she would like to go out with. ->","completion":" Mind reading"}
+{"prompt":"I saw a profile picture of a close friend on a dating app that I had feelings for. I am not the kind of person that she would like to go out with. ->","completion":" Comparing and Despairing"}
+{"prompt":"I saw a profile picture of a close friend on a dating app that I had feelings for. I am not the kind of person that she would like to go out with. ->","completion":" All-or-nothing thinking"}
+{"prompt":"I am trying to diet but I gained weight this week. I don't have the discipline to diet. ->","completion":" Catastrophizing"}
+{"prompt":"My husband cancelled our wedding anniversary dinner. The thought that he does not care about me anymore. ->","completion":" Overgeneralizing"}
+{"prompt":"My husband cancelled our wedding anniversary dinner. The thought that he does not care about me anymore. ->","completion":" Catastrophizing"}
+{"prompt":"I have depression and anxiety. The past 3 weeks have been especially tough depression wise, due to some out of our control stressors. spent a lot of time in bed while my kids were in school, just doing the bare minimum.  Meanwhile, my very supportive husband has been picking up my slack. I feel as though I nearly contribute to the household chores as much as I should, though I thank him constantly for his work.  Any words of wisdom or encouragement? I feel like a bad wife and mom ->","completion":" Emotional reasoning"}
+{"prompt":"I have depression and anxiety. The past 3 weeks have been especially tough depression wise, due to some out of our control stressors. spent a lot of time in bed while my kids were in school, just doing the bare minimum.  Meanwhile, my very supportive husband has been picking up my slack. I feel as though I nearly contribute to the household chores as much as I should, though I thank him constantly for his work.  Any words of wisdom or encouragement? I feel like a bad wife and mom ->","completion":" Labeling"}
+{"prompt":"I tried to advertise my business more but have gotten zero leads from it. I am not good at what I do. ->","completion":" All-or-nothing thinking"}
+{"prompt":"I tried to advertise my business more but have gotten zero leads from it. I am not good at what I do. ->","completion":" Labeling"}
+{"prompt":"I tried to advertise my business more but have gotten zero leads from it. I am not good at what I do. ->","completion":" Overgeneralizing"}
+{"prompt":"I tried to advertise my business more but have gotten zero leads from it. I am not good at what I do. ->","completion":" Negative feeling or emotion"}
+{"prompt":"I tried to advertise my business more but have gotten zero leads from it. I am not good at what I do. ->","completion":" Mind reading"}
+{"prompt":"I tried to advertise my business more but have gotten zero leads from it. I am not good at what I do. ->","completion":" Personalizing"}
+{"prompt":"I came home to find my spouse had taken all of his things and left a note saying our marriage was over. My marriage is over. ->","completion":" Overgeneralizing"}
+{"prompt":"I came home to find my spouse had taken all of his things and left a note saying our marriage was over. My marriage is over. ->","completion":" Negative feeling or emotion"}
+{"prompt":"A week ago me and my GF were trying to find a store in a nearby town but we got lost. We won't be able to find the store before it closes. ->","completion":" Fortune telling"}
+{"prompt":"A week ago me and my GF were trying to find a store in a nearby town but we got lost. We won't be able to find the store before it closes. ->","completion":" All-or-nothing thinking"}
+{"prompt":"A week ago me and my GF were trying to find a store in a nearby town but we got lost. We won't be able to find the store before it closes. ->","completion":" Emotional reasoning"}
+{"prompt":"A week ago me and my GF were trying to find a store in a nearby town but we got lost. We won't be able to find the store before it closes. ->","completion":" Catastrophizing"}
+{"prompt":"My girlfriend came home later than usual after work and didn't bother to call and let me know or answer the phone when I called to check on her. She acted like it was not big deal after she came home. My girlfriend is hiding something from me. ->","completion":" Emotional reasoning"}
+{"prompt":"My wife, asked me very kindly, to finally clean the bathroom shower in our bathroom, and I got upset by this. I'm busy doing something else, it's not like I haven't tried to get to that chore! ->","completion":" Negative feeling or emotion"}
+{"prompt":"My wife, asked me very kindly, to finally clean the bathroom shower in our bathroom, and I got upset by this. I'm busy doing something else, it's not like I haven't tried to get to that chore! ->","completion":" Emotional reasoning"}
+{"prompt":"My wife, asked me very kindly, to finally clean the bathroom shower in our bathroom, and I got upset by this. I'm busy doing something else, it's not like I haven't tried to get to that chore! ->","completion":" Blaming"}
+{"prompt":"I yelled at my sister for not doing something correctly There will never be enough time to get everything done ->","completion":" All-or-nothing thinking"}
+{"prompt":"I yelled at my sister for not doing something correctly There will never be enough time to get everything done ->","completion":" Catastrophizing"}
+{"prompt":"I yelled at my sister for not doing something correctly There will never be enough time to get everything done ->","completion":" Blaming"}
+{"prompt":"My wife sat me down and said she needed me to make more money because she is tired of paying rent by herself i was letting her down and she felt pressured by my actions ->","completion":" Mind reading"}
+{"prompt":"i still can't speak or understand korean, even after 6 months here i'm not good enough ->","completion":" All-or-nothing thinking"}
+{"prompt":"I am trying to diet but I gained weight this week. I don't have the discipline to diet. ->","completion":" All-or-nothing thinking"}
+{"prompt":"I was in my grandma's house and I knocked the vase on the floor Grandma will be so angry at me ->","completion":" Fortune telling"}
+{"prompt":"An mturk requester rejected my task and I wasn't sure why because I work very hard on my tasks. Being new it affected my approval rating more negatively. I'm not smart enough to succeed at mturk ->","completion":" All-or-nothing thinking"}
+{"prompt":"An mturk requester rejected my task and I wasn't sure why because I work very hard on my tasks. Being new it affected my approval rating more negatively. I'm not smart enough to succeed at mturk ->","completion":" Labeling"}
+{"prompt":"An mturk requester rejected my task and I wasn't sure why because I work very hard on my tasks. Being new it affected my approval rating more negatively. I'm not smart enough to succeed at mturk ->","completion":" Overgeneralizing"}
+{"prompt":"An mturk requester rejected my task and I wasn't sure why because I work very hard on my tasks. Being new it affected my approval rating more negatively. I'm not smart enough to succeed at mturk ->","completion":" Fortune telling"}
+{"prompt":"An mturk requester rejected my task and I wasn't sure why because I work very hard on my tasks. Being new it affected my approval rating more negatively. I'm not smart enough to succeed at mturk ->","completion":" Personalizing"}
+{"prompt":"My daughter refused to do anything I instructed her to and embarrassed me greatly before guests I was hosting. If I cannot control her now, I have lost her perhaps forever ->","completion":" Overgeneralizing"}
+{"prompt":"My daughter refused to do anything I instructed her to and embarrassed me greatly before guests I was hosting. If I cannot control her now, I have lost her perhaps forever ->","completion":" Catastrophizing"}
+{"prompt":"A potential client decided to work with another company. I failed our company & myself. ->","completion":" All-or-nothing thinking"}
+{"prompt":"A potential client decided to work with another company. I failed our company & myself. ->","completion":" Personalizing"}
+{"prompt":"A potential client decided to work with another company. I failed our company & myself. ->","completion":" Fortune telling"}
+{"prompt":"A potential client decided to work with another company. I failed our company & myself. ->","completion":" Overgeneralizing"}
+{"prompt":"A potential client decided to work with another company. I failed our company & myself. ->","completion":" Negative feeling or emotion"}
+{"prompt":"A potential client decided to work with another company. I failed our company & myself. ->","completion":" Labeling"}
+{"prompt":"A potential client decided to work with another company. I failed our company & myself. ->","completion":" Mind reading"}
+{"prompt":"A potential client decided to work with another company. I failed our company & myself. ->","completion":" Catastrophizing"}
+{"prompt":"I can't do anything right and I'm crying over spilling cereal on my bed and dress I'm worthless ->","completion":" Catastrophizing"}
+{"prompt":"Don't have a job I'm a failure ->","completion":" Negative feeling or emotion"}
+{"prompt":"They did not convert me as permanent at work I'm a failure ->","completion":" Labeling"}
+{"prompt":"I can feel everyone becoming distant with me, including my boyfriend. He just cheated on me not even a week ago and i cant bring myself to leave him no matter what he does. He does not care. I have no family, i only ever had him. Im annoying and i am never happy with anything and i hate myself for it because i want to be happy and i want to be a good person. I can feel my heart breaking more and more as i cone to the realization that i am not wanted nor needed. I am a problem. ->","completion":" Labeling"}
+{"prompt":"I know why I am so angry all of the time. like I have this little monster in my head. It just makes me want to abandon everything and hide from everyone so I lash out anymore. I just hate my brain. I am crazy. ->","completion":" Labeling"}
+{"prompt":"I thought that my sister had taken some money from my house when she'd come over to visit. I cannot trust my sister anymore. ->","completion":" Blaming"}
+{"prompt":"I thought that my sister had taken some money from my house when she'd come over to visit. I cannot trust my sister anymore. ->","completion":" Negative feeling or emotion"}
+{"prompt":"I thought that my sister had taken some money from my house when she'd come over to visit. I cannot trust my sister anymore. ->","completion":" Overgeneralizing"}
+{"prompt":"I've been a massive bummer in my personal life and am making people feel bad I'm worthless ->","completion":" Labeling"}
+{"prompt":"I've been a massive bummer in my personal life and am making people feel bad I'm worthless ->","completion":" All-or-nothing thinking"}
+{"prompt":"I was passed over for a new job with a larger company. I had the qualifications and the experience for this job, yet I was passed over for someone else who had less experience than I. ->","completion":" Personalizing"}
+{"prompt":"I posted a new piece of artwork online and people started comparing it with artwork created by others I shouldn't have posted it ->","completion":" Personalizing"}
+{"prompt":"I made a goal to quit smoking and failed I keep failing at this ->","completion":" Overgeneralizing"}
+{"prompt":"I made a goal to quit smoking and failed I keep failing at this ->","completion":" Fortune telling"}
+{"prompt":"I made a goal to quit smoking and failed I keep failing at this ->","completion":" All-or-nothing thinking"}
+{"prompt":"I made a goal to quit smoking and failed I keep failing at this ->","completion":" Negative feeling or emotion"}
+{"prompt":"I made a goal to quit smoking and failed I keep failing at this ->","completion":" Labeling"}
+{"prompt":"I made a goal to quit smoking and failed I keep failing at this ->","completion":" Should statements"}
+{"prompt":"I made a goal to quit smoking and failed I keep failing at this ->","completion":" Catastrophizing"}
+{"prompt":"I burnt the potatoes while cooking I should have been perfect ->","completion":" Should statements"}
+{"prompt":"My girlfriend is getting a new job in a distant city. This is going to cause us to break up. ->","completion":" Fortune telling"}
+{"prompt":"My girlfriend is getting a new job in a distant city. This is going to cause us to break up. ->","completion":" Disqualifying the Positive"}
+{"prompt":"I had been working on a project at work for a very long time, but a higher up manager contacted my boss and asked about it, insinuating I wasn't delivering it fast enough. I'm working on this as fast as I possibly can ->","completion":" Comparing and Despairing"}
+{"prompt":"Threw a conniption when unable to complete an Amigurumi project for my niece. I am unable to do this simply damned thing. ->","completion":" All-or-nothing thinking"}
+{"prompt":"Threw a conniption when unable to complete an Amigurumi project for my niece. I am unable to do this simply damned thing. ->","completion":" Negative feeling or emotion"}
+{"prompt":"Threw a conniption when unable to complete an Amigurumi project for my niece. I am unable to do this simply damned thing. ->","completion":" Labeling"}
+{"prompt":"I did a poor job organizing a meeting, but it turned out to not be a big deal. I am not a good project manager. ->","completion":" Labeling"}
+{"prompt":"I did a poor job organizing a meeting, but it turned out to not be a big deal. I am not a good project manager. ->","completion":" All-or-nothing thinking"}
+{"prompt":"I did a poor job organizing a meeting, but it turned out to not be a big deal. I am not a good project manager. ->","completion":" Negative feeling or emotion"}
+{"prompt":"I did a poor job organizing a meeting, but it turned out to not be a big deal. I am not a good project manager. ->","completion":" Disqualifying the Positive"}
+{"prompt":"I did a poor job organizing a meeting, but it turned out to not be a big deal. I am not a good project manager. ->","completion":" Catastrophizing"}
+{"prompt":"My wife didn't look up from her phone or answer me when I came to talk to her. Am I not worth her time? ->","completion":" Labeling"}
+{"prompt":"I was on the phone with my boyfriend and he got a call on the other line. I assumed it was another girl calling him. I am not good enough. ->","completion":" Labeling"}
+{"prompt":"After I complained about not spending time together, my boyfriend did not want to go on a date last weekend. He doesn't love me. ->","completion":" Personalizing"}
+{"prompt":"I talk to a close friend online every day because we live in different states. We share a lot about our lives and our messages are usually pretty long. My friend asked me to stop messaging for a while because they felt overwhelmed and wouldn't be able to respond but wanted to at a later time I'm annoying and oversharing ->","completion":" Overgeneralizing"}
+{"prompt":"i ate too much and too fast to temporarily please myself but not because i felt hunger i am not able to control my eating habits ->","completion":" Negative feeling or emotion"}
+{"prompt":"I couldn't find my bank card and realized my husband must have taken it. He shouldn't have taken it without asking me first. ->","completion":" Blaming"}
+{"prompt":"I was told that I don't look as attractive as I used to by my significant other. She told me that she does not like the way that I have been dressing lately and that I should go back to my old style of dressing. I can recall feeling embarrassed and let down with myself. I felt very tiny and as though my relationship was falling apart because she was starting to become very superficial. What am I doing to deserve this? ->","completion":" Emotional reasoning"}
+{"prompt":"My boyfriend told me that I shouldn't clean the bathroom and to go and deal with the kids. He doesn't think that I'm capable of watching the kids and cleaning the kitchen at the same time. ->","completion":" Not distorted"}
+{"prompt":"My husband got two tickets to a Bruins game the other day and rather than asking me if I wanted to go with him he invited a friend. My husband doesn't want to spend time with me. ->","completion":" Mind reading"}
+{"prompt":"My husband got two tickets to a Bruins game the other day and rather than asking me if I wanted to go with him he invited a friend. My husband doesn't want to spend time with me. ->","completion":" Overgeneralizing"}
+{"prompt":"A new policy at work was established and required cooperation of efforts from another department in order to meet the new requirements. I took initiative and set meetings to talk about the new roles. After the meeting a verbal agreements were made I drafted a memorandum of agreement outlining the verbal agreements. A day later, the other department refused to participate because they did not want to do any extra work. We will not be able to complete the work that needs to be done ->","completion":" Catastrophizing"}
+{"prompt":"I was reprimanded at work for standing up to a coworker who was bullying another co-worker. It was unfair that I was the one to get in trouble for defending a weaker person. ->","completion":" Blaming"}
+{"prompt":"I have been studying for months for the real estate exam. When I went to take it, I did not pass by two points. I really have to pass, I need to work. ->","completion":" Negative feeling or emotion"}
+{"prompt":"I hurt my families feelings by canceling the trip they had planned to come to see me. I should have made time for them. ->","completion":" Should statements"}
+{"prompt":"Someone started a rumor that I'd been banned from an online community when in fact I hadn't. Many people chose to attack my character and one person called me a bully. When I dispelled the rumor and defended myself I was denied an opportunity to defend myself and insulted further. I am a bad person. ->","completion":" Labeling"}
+{"prompt":"Someone started a rumor that I'd been banned from an online community when in fact I hadn't. Many people chose to attack my character and one person called me a bully. When I dispelled the rumor and defended myself I was denied an opportunity to defend myself and insulted further. I am a bad person. ->","completion":" Negative feeling or emotion"}
+{"prompt":"I am trying to help my son pay his bills and find a job. He does not appreciate anything I do for him. ->","completion":" Overgeneralizing"}
+{"prompt":"I am trying to help my son pay his bills and find a job. He does not appreciate anything I do for him. ->","completion":" All-or-nothing thinking"}
+{"prompt":"I am trying to help my son pay his bills and find a job. He does not appreciate anything I do for him. ->","completion":" Blaming"}
+{"prompt":"I was talking with my boyfriend on my lunch break and he started to clean his computer with canned air which made a very loud noise. Does he not care what I am saying? ->","completion":" Overgeneralizing"}
+{"prompt":"I was talking with my boyfriend on my lunch break and he started to clean his computer with canned air which made a very loud noise. Does he not care what I am saying? ->","completion":" Personalizing"}
+{"prompt":"I was talking with my boyfriend on my lunch break and he started to clean his computer with canned air which made a very loud noise. Does he not care what I am saying? ->","completion":" Blaming"}
+{"prompt":"I tried to make a business but I lose I'll never be able to do anything ->","completion":" Fortune telling"}
+{"prompt":"My dad is in the next room in his hospice bed and im afraid of not doing everything right. Am I doing enough ->","completion":" Negative feeling or emotion"}
+{"prompt":"My dad is in the next room in his hospice bed and im afraid of not doing everything right. Am I doing enough ->","completion":" Catastrophizing"}
+{"prompt":"I tried a new hair style but no one commented on it I shouldn't have changed my hair ->","completion":" Should statements"}
+{"prompt":"Our group project did not receive a high grade It was my fault my group got a bad grade ->","completion":" Disqualifying the Positive"}
+{"prompt":"I sent a message to my friend and they did not reply It must be my fault ->","completion":" Personalizing"}
+{"prompt":"I was up for a promotion at work and did not receive it. I will be stuck in middle-management for the remainder of my career. ->","completion":" Catastrophizing"}
+{"prompt":"I was up for a promotion at work and did not receive it. I will be stuck in middle-management for the remainder of my career. ->","completion":" Overgeneralizing"}
+{"prompt":"I was up for a promotion at work and did not receive it. I will be stuck in middle-management for the remainder of my career. ->","completion":" Negative feeling or emotion"}
+{"prompt":"I was up for a promotion at work and did not receive it. I will be stuck in middle-management for the remainder of my career. ->","completion":" Fortune telling"}
+{"prompt":"I failed to convince my son that he should go back to college I am failing as a parent ->","completion":" Labeling"}
+{"prompt":"I failed to convince my son that he should go back to college I am failing as a parent ->","completion":" Personalizing"}
+{"prompt":"I failed to convince my son that he should go back to college I am failing as a parent ->","completion":" Catastrophizing"}
+{"prompt":"I didn't get as good of feedback on a work assignment as I wanted I didn't do as good a job as I thought ->","completion":" Catastrophizing"}
+{"prompt":"I was talking to my husband about something that happened to me that day.  He kept interrupting and talking over me.  I got up and left the room. My husband was being a jerk and not listening to me. ->","completion":" Personalizing"}
+{"prompt":"I applied for a new part-time position and took the qualifying exam but didn't pass because they  changed some of the guidelines for the job. They warned us beforehand that this may happen in the hiring process. I thought that I should have studied harder. If I knew enough information I would pass no matter how the standards changed. It was my fault I didn't try hard enough and was furious with myself ->","completion":" Personalizing"}
+{"prompt":"I applied for a new part-time position and took the qualifying exam but didn't pass because they  changed some of the guidelines for the job. They warned us beforehand that this may happen in the hiring process. I thought that I should have studied harder. If I knew enough information I would pass no matter how the standards changed. It was my fault I didn't try hard enough and was furious with myself ->","completion":" Blaming"}
+{"prompt":"I applied for a new part-time position and took the qualifying exam but didn't pass because they  changed some of the guidelines for the job. They warned us beforehand that this may happen in the hiring process. I thought that I should have studied harder. If I knew enough information I would pass no matter how the standards changed. It was my fault I didn't try hard enough and was furious with myself ->","completion":" Should statements"}
+{"prompt":"The guy I'm dating went home early one night and I got upset because I thought it meant he didn't want to see me anymore, but I was wrong. I guess he doesn't like me anymore ->","completion":" Mind reading"}
+{"prompt":"The guy I'm dating went home early one night and I got upset because I thought it meant he didn't want to see me anymore, but I was wrong. I guess he doesn't like me anymore ->","completion":" Negative feeling or emotion"}
+{"prompt":"The guy I'm dating went home early one night and I got upset because I thought it meant he didn't want to see me anymore, but I was wrong. I guess he doesn't like me anymore ->","completion":" Overgeneralizing"}
+{"prompt":"i celebrated a past holiday by myself why don't i have friends? why am i not social? SIGH! ->","completion":" All-or-nothing thinking"}
+{"prompt":"I run a business with my close friend and we were taking work-related photos at their house. I took the memory card home but lost it while I was walking. My friend is going to be angry with me ->","completion":" Mind reading"}
+{"prompt":"I run a business with my close friend and we were taking work-related photos at their house. I took the memory card home but lost it while I was walking. My friend is going to be angry with me ->","completion":" Negative feeling or emotion"}
+{"prompt":"I called a woman I love by accident during a bad time She will never love me now ->","completion":" Mind reading"}
+{"prompt":"I confronted a coworker about eating my food from the refrigerator, only to realize the custodians threw away my food the night before. My coworkers are making fun of me now ->","completion":" Mind reading"}
+{"prompt":"I confronted a coworker about eating my food from the refrigerator, only to realize the custodians threw away my food the night before. My coworkers are making fun of me now ->","completion":" Negative feeling or emotion"}
+{"prompt":"I confronted a coworker about eating my food from the refrigerator, only to realize the custodians threw away my food the night before. My coworkers are making fun of me now ->","completion":" Catastrophizing"}
+{"prompt":"I took part in a writing competition and I lost I will never become a successful writer ->","completion":" Fortune telling"}
+{"prompt":"Three days have passed since my job interview and I didn't receive any updates I didn't get the job ->","completion":" Fortune telling"}
+{"prompt":"I'm facing an issue, that I love you girlfriend and she loves me back. But I hurt her because I'm manipulative, without really realizing what I'm doing. I make her feel guilty of things that she shouldn't feel so, and if I don't get things my way, I manipulate it so it sounds like it's her fault or she is wrong. I don't do it voluntarily, but I do it too often and it hurts her and me. I am manipulative ->","completion":" Labeling"}
+{"prompt":"Every time I think I have another chance at love, I am reminded how insufferable and unlovable I make myself. I am a hard person to love ->","completion":" Labeling"}
+{"prompt":"I love two people at the same time That I'm going to fail ->","completion":" Fortune telling"}
+{"prompt":"My grandma died a few years ago and my aunt recently had major surgery. I'm scared of losing loved ones ->","completion":" Negative feeling or emotion"}
+{"prompt":"I've been applying for jobs and just got a call that someone else filled a position I applied for. I might never get hired. ->","completion":" Catastrophizing"}
+{"prompt":"My inabilities cost me my job. I would not find a job ->","completion":" Catastrophizing"}
+{"prompt":"Fired for not meeting quota as a salesman. I can't pay my bills. ->","completion":" Negative feeling or emotion"}
+{"prompt":"Fired for not meeting quota as a salesman. I can't pay my bills. ->","completion":" Catastrophizing"}
+{"prompt":"I had an opportunity to get a large bonus at work but I did not do well on task so no bonus I could have done so much better ->","completion":" Personalizing"}
+{"prompt":"I had an opportunity to get a large bonus at work but I did not do well on task so no bonus I could have done so much better ->","completion":" All-or-nothing thinking"}
+{"prompt":"I had an opportunity to get a large bonus at work but I did not do well on task so no bonus I could have done so much better ->","completion":" Should statements"}
+{"prompt":"I applied for a job and just got a call saying I didn't get the job. I am not good enough for anyone. ->","completion":" Overgeneralizing"}
+{"prompt":"I wave to an acquaintance and get no response. I don't make a memorable impression on people. ->","completion":" Labeling"}
+{"prompt":"I want to shoot myself I have lost all hope ->","completion":" Negative feeling or emotion"}
+{"prompt":"I hurt my families feelings by canceling the trip they had planned to come to see me. I should have made time for them. ->","completion":" Mind reading"}
+{"prompt":"I ask out a co-worker who I became fond of recently but was turned down. I'm not good enough for her. ->","completion":" Emotional reasoning"}
+{"prompt":"My guitar teacher told me I needed to correct my posture I've been practicing but I'm not making any progress ->","completion":" All-or-nothing thinking"}
+{"prompt":"I got very upset last week when I realized that I had forgotten to fill out a required form and the date that the form was due had already passed. they should have reminded me before I forgot ->","completion":" Should statements"}
+{"prompt":"I found a job I thought was perfect for me in the field I used to work in and love very much. A few days after putting in a resume and lining up several references, I found out the job was filled and I didn't even get so much as an acknowledgment of my application much less an interview when I was extremely qualified. why can't I ever get anything I want ->","completion":" All-or-nothing thinking"}
+{"prompt":"I recently discovered a music artist that I very much enjoy. When I showed it to a close friend they had a very negative reaction and asked me how I could enjoy this type of music. I ended up getting quite angry with them and told them they had bad taste in music. I felt that my personal self was under attack - and I needed to retaliate by denying their attack. ->","completion":" Personalizing"}
+{"prompt":"Recent panic attack I'm not going to live up to my expectations for my future ->","completion":" Catastrophizing"}
+{"prompt":"I hurt my family members by telling them to postpone their long-planned trip to visit me because I was too busy I am selfish ->","completion":" Labeling"}
+{"prompt":"When I told my friend about my job, he said it has little real-world significance My job is worthless ->","completion":" Overgeneralizing"}
+{"prompt":"it's so hard to do school work, get out of bed, care for myself, and eat I'm so exhausted ->","completion":" Negative feeling or emotion"}
+{"prompt":"Our forest inventory data is due in less than three days and I still have over 100 plots to do.  The date cannot be missed and my superiors expect it completed. I have at least four normal days of plot work needing done in three days ->","completion":" Negative feeling or emotion"}
+{"prompt":"Our forest inventory data is due in less than three days and I still have over 100 plots to do.  The date cannot be missed and my superiors expect it completed. I have at least four normal days of plot work needing done in three days ->","completion":" Comparing and Despairing"}
+{"prompt":"Our forest inventory data is due in less than three days and I still have over 100 plots to do.  The date cannot be missed and my superiors expect it completed. I have at least four normal days of plot work needing done in three days ->","completion":" All-or-nothing thinking"}
+{"prompt":"My financial situation is going out of hand I'm worried about my future ->","completion":" Fortune telling"}
+{"prompt":"I was given a solo for the church play.  At practice when it came time for me to sing, my voice cracked and I lost the solo. I can't sing. ->","completion":" All-or-nothing thinking"}
+{"prompt":"I was given a solo for the church play.  At practice when it came time for me to sing, my voice cracked and I lost the solo. I can't sing. ->","completion":" Negative feeling or emotion"}
+{"prompt":"I was given a solo for the church play.  At practice when it came time for me to sing, my voice cracked and I lost the solo. I can't sing. ->","completion":" Fortune telling"}
+{"prompt":"I was given a solo for the church play.  At practice when it came time for me to sing, my voice cracked and I lost the solo. I can't sing. ->","completion":" Overgeneralizing"}
+{"prompt":"I was given a solo for the church play.  At practice when it came time for me to sing, my voice cracked and I lost the solo. I can't sing. ->","completion":" Labeling"}
+{"prompt":"I always do the wrong thing, I always make mistakes I hate myself ->","completion":" Labeling"}
+{"prompt":"My financial situation is going out of hand I'm worried about my future ->","completion":" Catastrophizing"}
+{"prompt":"I always do the wrong thing, I always make mistakes I hate myself ->","completion":" All-or-nothing thinking"}
+{"prompt":"I was walking in a poorly lit downtown area when a man approached me and asked for money. I told him I had none, and he started cussing me out and following me. I eventually started running and he finally stopped following. He is going to hurt me ->","completion":" Fortune telling"}
+{"prompt":"I left a toxic job that abused me for more than a decade. I thought I found a new job that was better, but realized they lied to me about the job and now I hate working here. I feel like I made a huge mistake. I can never get a break. Every time I try to make a positive change in my life, something happens to ruin it. ->","completion":" Negative feeling or emotion"}
+{"prompt":"Last week I found out that my mother had experienced sudden back pain that lasted for a few days  and I somehow worked myself into a very concerned state where I kind of felt like she was going to become completely incapacitated and have to live in a nursing home. I'm afraid she's going to die soon. ->","completion":" Emotional reasoning"}
+{"prompt":"I received a rejection email from a position I applied to. I will never get a job. ->","completion":" Fortune telling"}
+{"prompt":"I called an old friend, but she wasn't home and didn't return my call. Maybe she doesn't want to talk to me anymore. ->","completion":" Mind reading"}
+{"prompt":"I called an old friend, but she wasn't home and didn't return my call. Maybe she doesn't want to talk to me anymore. ->","completion":" Fortune telling"}
+{"prompt":"I am single and isolated im unlovable ->","completion":" Negative feeling or emotion"}
+{"prompt":"My boyfriend didn't reply back to me instantly. If I text my boyfriend too much, he will get bored of me. ->","completion":" Mind reading"}
+{"prompt":"A neighbor borrowed my smartphone charger and never returned it. he took me for granted! ->","completion":" Labeling"}
+{"prompt":"A neighbor borrowed my smartphone charger and never returned it. he took me for granted! ->","completion":" Catastrophizing"}
+{"prompt":"I was looking forward to relaxing but my partner asked me to make dinner instead. My partner thinks I am lazy. ->","completion":" Mind reading"}
+{"prompt":"I was looking forward to relaxing but my partner asked me to make dinner instead. My partner thinks I am lazy. ->","completion":" Personalizing"}
+{"prompt":"Someone criticized the way I dealt with a patient saying that I was too short tempered with them. I felt the criticism was unfair because they didn't take into account the entire situation, especially considering how the patient was behaving towards me. ->","completion":" Personalizing"}
+{"prompt":"I'm facing an issue, that I love you girlfriend and she loves me back. But I hurt her because I'm manipulative, without really realizing what I'm doing. I make her feel guilty of things that she shouldn't feel so, and if I don't get things my way, I manipulate it so it sounds like it's her fault or she is wrong. I don't do it voluntarily, but I do it too often and it hurts her and me. I am manipulative ->","completion":" Negative feeling or emotion"}
+{"prompt":"I failed to turn in my planned event calendar by the due date. I forgot something important. Again. My boss is going to kill me. ->","completion":" Catastrophizing"}
+{"prompt":"I failed to turn in my planned event calendar by the due date. I forgot something important. Again. My boss is going to kill me. ->","completion":" Fortune telling"}
+{"prompt":"I had a huge fight with my friend and I love her so much and I called her fat and ugly and I didn't mean to, is there a condition for something like this I'm being mean to someone I love ->","completion":" Labeling"}
+{"prompt":"Last week I made a special dinner at my house for my family to enjoy but I overcooked the food. after three decades since I first started learning how to cook I am still ruining meals. ->","completion":" Overgeneralizing"}
+{"prompt":"Last week I made a special dinner at my house for my family to enjoy but I overcooked the food. after three decades since I first started learning how to cook I am still ruining meals. ->","completion":" Negative feeling or emotion"}
+{"prompt":"I failed to do a work task appropriately in a side-gig. I won't get paid ->","completion":" Fortune telling"}
+{"prompt":"I failed to do a work task appropriately in a side-gig. I won't get paid ->","completion":" Catastrophizing"}
+{"prompt":"I failed to do a work task appropriately in a side-gig. I won't get paid ->","completion":" Negative feeling or emotion"}
+{"prompt":"I mixed up the addresses on two packages and sent them to the wrong place I screwed up again at work ->","completion":" Negative feeling or emotion"}
+{"prompt":"I mixed up the addresses on two packages and sent them to the wrong place I screwed up again at work ->","completion":" Overgeneralizing"}
+{"prompt":"I made a mistake with an expensive reagent at work and ruined my experiment. I'm mad at myself for being careless ->","completion":" Emotional reasoning"}
+{"prompt":"I made a mistake with an expensive reagent at work and ruined my experiment. I'm mad at myself for being careless ->","completion":" Labeling"}
+{"prompt":"I made a mistake with an expensive reagent at work and ruined my experiment. I'm mad at myself for being careless ->","completion":" Negative feeling or emotion"}
+{"prompt":"I couldn't finish the task in time I'm incompetent ->","completion":" Labeling"}
+{"prompt":"My friend asked for help and I denied I'm self-centered ->","completion":" Labeling"}
+{"prompt":"I try to talk to a stranger at a party and they seem disinterested and walk away from me I'm boring ->","completion":" Fortune telling"}
+{"prompt":"I don't work. I rely heavily on my partner, I'm so easily scared I am a burden. ->","completion":" Labeling"}
+{"prompt":"I am alone none understands Can not move have so much to do mind numb ->","completion":" Negative feeling or emotion"}
+{"prompt":"I had a breakup I am the cause of the breakup ->","completion":" Personalizing"}
+{"prompt":"My friend asked for advice, but I was unable to provide it I'm completely self-centered and thoughtless ->","completion":" All-or-nothing thinking"}
+{"prompt":"Last week my sister and I facetime. I didnt show much interest. Later that day, my cousin told me that my sister was sad because of my behavior. I made my sister sad ->","completion":" Mind reading"}
+{"prompt":"Last week my sister and I facetime. I didnt show much interest. Later that day, my cousin told me that my sister was sad because of my behavior. I made my sister sad ->","completion":" Personalizing"}
+{"prompt":"Last week my sister and I facetime. I didnt show much interest. Later that day, my cousin told me that my sister was sad because of my behavior. I made my sister sad ->","completion":" Overgeneralizing"}
+{"prompt":"I've been a massive bummer in my personal life and am making people feel bad I'm worthless ->","completion":" Catastrophizing"}
+{"prompt":"I am under appreciated at work Self worth ->","completion":" Comparing and Despairing"}
+{"prompt":"I gained a little weight while trying to diet I'm not succeeding ->","completion":" All-or-nothing thinking"}
+{"prompt":"I lost my best friend. I'm a male and she was the nicest girl I've ever met. But I fucked it. I started to take her for granted, started to overthink, to take everything too seriously, I was jealous, selfish and though only of my own interests and not of hers feelings it's all my fault ->","completion":" Personalizing"}
+{"prompt":"I have been trying a number of diets. This week I weighed myself and found out I had gained a pound I am trying to lose weight but nothing works ->","completion":" Disqualifying the Positive"}
+{"prompt":"I was not paying attention and scratched someone's car while driving I am will have to pay for this ->","completion":" Fortune telling"}
+{"prompt":"For many years I've been tutoring students online in math and reading. One of my newer students requested to my supervisor that she be assigned to a different tutor because she didn't like me. I was searching my brain to figure out why she didn't like me, and it made me so sad to think I'd hurt her feelings or caused a problem for her. ->","completion":" Personalizing"}
+{"prompt":"I had dinner plans cancelled by my parents because I my mom was feeling under the weather. I never get to see her anymore. ->","completion":" Negative feeling or emotion"}
+{"prompt":"It's so hard to study effectively and it takes all the time and energy I have. And then I still don't feel prepared. I'm so behind and i'm so afraid of the terrible grades I will recieve. I can't do anything right ->","completion":" Negative feeling or emotion"}
+{"prompt":"I was called into a meeting with my boss where I was told that I wasn't meeting the standards at work. I am not doing well enough to warrant working at this job. ->","completion":" All-or-nothing thinking"}
+{"prompt":"I was called into a meeting with my boss where I was told that I wasn't meeting the standards at work. I am not doing well enough to warrant working at this job. ->","completion":" Negative feeling or emotion"}
+{"prompt":"Don't have a job I'm a failure ->","completion":" Catastrophizing"}
+{"prompt":"I have been trying to get a hold of a friend to help me with a project for over a week, but he won't return my calls or texts. He is avoiding me ->","completion":" Mind reading"}
+{"prompt":"I have been trying to get a hold of a friend to help me with a project for over a week, but he won't return my calls or texts. He is avoiding me ->","completion":" Overgeneralizing"}
+{"prompt":"I have been trying to get a hold of a friend to help me with a project for over a week, but he won't return my calls or texts. He is avoiding me ->","completion":" Catastrophizing"}
+{"prompt":"I got into a minor car crash. I messed up big time. ->","completion":" Catastrophizing"}
+{"prompt":"I yelled at my child for being too fidgety during stories at bedtime. The kids will never settle down. ->","completion":" Fortune telling"}
+{"prompt":"Last week I made a special dinner at my house for my family to enjoy but I overcooked the food. after three decades since I first started learning how to cook I am still ruining meals. ->","completion":" Disqualifying the Positive"}
+{"prompt":"Last week I made a special dinner at my house for my family to enjoy but I overcooked the food. after three decades since I first started learning how to cook I am still ruining meals. ->","completion":" Catastrophizing"}
+{"prompt":"I applied for a promotion but was told I haven't shown the necessary ambition yet. This happened at work where I always go the extra mile, stay late, and even work when I'm not being paid. I feel like the response to my request for a promotion was inaccurate and that I am being taken advantage of because nothing I could do is enough. I was denied the promotion by the department head who is a woman that seems to always talk down to and be rude to men at the company. I felt as if my talents and efforts were being unrecognized by the company yet they are perfectly happy to accept all of my hard work, just not pay me what I deserve for it. ->","completion":" Disqualifying the Positive"}
+{"prompt":"I got upset at my boss for not putting me in a temporary promotion to act as supervisor of our team. I wasn't valued as much as the other person. ->","completion":" Personalizing"}
+{"prompt":"I was talking to a friend who got me angry. He's insulting me. ->","completion":" Mind reading"}
+{"prompt":"I was talking to a friend who got me angry. He's insulting me. ->","completion":" Labeling"}
+{"prompt":"I was talking to a friend who got me angry. He's insulting me. ->","completion":" Negative feeling or emotion"}
+{"prompt":"I was talking to a friend who got me angry. He's insulting me. ->","completion":" All-or-nothing thinking"}
+{"prompt":"I was talking to a friend who got me angry. He's insulting me. ->","completion":" Personalizing"}
+{"prompt":"My daughter spilled a drink on my desk. She ruined my project ->","completion":" Blaming"}
+{"prompt":"I missed the submission deadline My efforts are wasted ->","completion":" Disqualifying the Positive"}
+{"prompt":"My friend has more followers on Twitter than me She is more successful than I am ->","completion":" Blaming"}
+{"prompt":"My husband got two tickets to a Bruins game the other day and rather than asking me if I wanted to go with him he invited a friend. My husband doesn't want to spend time with me. ->","completion":" Personalizing"}
+{"prompt":"I did nothing with my day Don't feel like I deserve fun\/enjoyment ->","completion":" All-or-nothing thinking"}
+{"prompt":"I was called into a meeting with my boss where I was told that I wasn't meeting the standards at work. I am not doing well enough to warrant working at this job. ->","completion":" Overgeneralizing"}
+{"prompt":"i dont wanna continue with this life im ready to die ->","completion":" Emotional reasoning"}
+{"prompt":"i dont wanna continue with this life im ready to die ->","completion":" Disqualifying the Positive"}
+{"prompt":"My friend and I were looking at apartments. His first choice for apartments was one that was too small for my life goals, as I could not set up an office in it. He wanted the better room in the apartment. He only cares about himself. ->","completion":" Disqualifying the Positive"}
+{"prompt":"My friend and I were looking at apartments. His first choice for apartments was one that was too small for my life goals, as I could not set up an office in it. He wanted the better room in the apartment. He only cares about himself. ->","completion":" Overgeneralizing"}
+{"prompt":"i and my brother were working in the same office were i am his senior and when he does careless mistakes my boss warned me as i am his senior who is responsible for his work my brother is very careless as he has the feeling that there is no one to ask him as his sister is the one who is senior ->","completion":" Not distorted"}
+{"prompt":"I had a huge fight with my friend and I love her so much and I called her fat and ugly and I didn't mean to, is there a condition for something like this I'm being mean to someone I love ->","completion":" Negative feeling or emotion"}
+{"prompt":"While I was at work, my supervisor questioned my decision in a negative tone infront of my peers. She needs to stop discussing this. ->","completion":" Negative feeling or emotion"}
+{"prompt":"While I was at work, my supervisor questioned my decision in a negative tone infront of my peers. She needs to stop discussing this. ->","completion":" Blaming"}
+{"prompt":"While I was at work, my supervisor questioned my decision in a negative tone infront of my peers. She needs to stop discussing this. ->","completion":" Mind reading"}
+{"prompt":"i ate too much and too fast to temporarily please myself but not because i felt hunger i am not able to control my eating habits ->","completion":" Overgeneralizing"}
+{"prompt":"I recently discovered a music artist that I very much enjoy. When I showed it to a close friend they had a very negative reaction and asked me how I could enjoy this type of music. I ended up getting quite angry with them and told them they had bad taste in music. I felt that my personal self was under attack - and I needed to retaliate by denying their attack. ->","completion":" Emotional reasoning"}
+{"prompt":"A friend of mine was pressuring me to see a movie I didn't want to see.  I tried to sheepishly get out of it but did not want to disappoint him so I just sort of agreed when I didn't want to do it.  So I ended up being miserable for two hours watching a movie I did not enjoy. I am miserable because I have such a hard time saying no. ->","completion":" Personalizing"}
+{"prompt":"A friend of mine was pressuring me to see a movie I didn't want to see.  I tried to sheepishly get out of it but did not want to disappoint him so I just sort of agreed when I didn't want to do it.  So I ended up being miserable for two hours watching a movie I did not enjoy. I am miserable because I have such a hard time saying no. ->","completion":" All-or-nothing thinking"}
+{"prompt":"A friend of mine was pressuring me to see a movie I didn't want to see.  I tried to sheepishly get out of it but did not want to disappoint him so I just sort of agreed when I didn't want to do it.  So I ended up being miserable for two hours watching a movie I did not enjoy. I am miserable because I have such a hard time saying no. ->","completion":" Overgeneralizing"}
+{"prompt":"A friend of mine was pressuring me to see a movie I didn't want to see.  I tried to sheepishly get out of it but did not want to disappoint him so I just sort of agreed when I didn't want to do it.  So I ended up being miserable for two hours watching a movie I did not enjoy. I am miserable because I have such a hard time saying no. ->","completion":" Labeling"}
+{"prompt":"A friend of mine was pressuring me to see a movie I didn't want to see.  I tried to sheepishly get out of it but did not want to disappoint him so I just sort of agreed when I didn't want to do it.  So I ended up being miserable for two hours watching a movie I did not enjoy. I am miserable because I have such a hard time saying no. ->","completion":" Negative feeling or emotion"}
+{"prompt":"A friend of mine was pressuring me to see a movie I didn't want to see.  I tried to sheepishly get out of it but did not want to disappoint him so I just sort of agreed when I didn't want to do it.  So I ended up being miserable for two hours watching a movie I did not enjoy. I am miserable because I have such a hard time saying no. ->","completion":" Should statements"}
+{"prompt":"I got excessively angry at my friend for sending stupid pictures of me to a mutual friend. I felt betrayed and that was extreme Why did I overact like this ->","completion":" Catastrophizing"}
+{"prompt":"I got excessively angry at my friend for sending stupid pictures of me to a mutual friend. I felt betrayed and that was extreme Why did I overact like this ->","completion":" Negative feeling or emotion"}
+{"prompt":"I became very stressed out after getting a bad score on a quiz My grades are important and I did poorly ->","completion":" Disqualifying the Positive"}
+{"prompt":"I became very stressed out after getting a bad score on a quiz My grades are important and I did poorly ->","completion":" Not distorted"}
+{"prompt":"I got into a minor car crash. I messed up big time. ->","completion":" Not distorted"}
+{"prompt":"My sister in law won't speak to me My sister in law thinks I am worthless ->","completion":" Negative feeling or emotion"}
+{"prompt":"First interview after studying and getting my diploma. I'll screw it over ->","completion":" Fortune telling"}
+{"prompt":"First interview after studying and getting my diploma. I'll screw it over ->","completion":" Catastrophizing"}
+{"prompt":"I received a subpar quiz score in a class. I should have studied harder, or more efficiently. ->","completion":" Should statements"}
+{"prompt":"I received a subpar quiz score in a class. I should have studied harder, or more efficiently. ->","completion":" Negative feeling or emotion"}
+{"prompt":"My sister asked my mother about me taking care of her cats instead of asking me directly. I don't matter. ->","completion":" Overgeneralizing"}
+{"prompt":"I just got fired from working as a sales person because I didn't reach my quota. I had never had a job like this before this. I'm a failure and can't keep a sales person job. ->","completion":" All-or-nothing thinking"}
+{"prompt":"I just got fired from working as a sales person because I didn't reach my quota. I had never had a job like this before this. I'm a failure and can't keep a sales person job. ->","completion":" Labeling"}
+{"prompt":"My girlfriend was sad that I wanted to go out with my friends, and started a fight. Why can't I have fun? Why must I stay home all the time? ->","completion":" Overgeneralizing"}
+{"prompt":"My girlfriend was sad that I wanted to go out with my friends, and started a fight. Why can't I have fun? Why must I stay home all the time? ->","completion":" Personalizing"}
+{"prompt":"My daughter's illness worry about a disabled family member ->","completion":" Not distorted"}
+{"prompt":"My daughter's illness worry about a disabled family member ->","completion":" Negative feeling or emotion"}
+{"prompt":"It's so hard to study effectively and it takes all the time and energy I have. And then I still don't feel prepared. I'm so behind and i'm so afraid of the terrible grades I will recieve. I can't do anything right ->","completion":" Not distorted"}
+{"prompt":"I'm waiting everyday for the weekend and the holidays. I'm not getting anything productive done. I can't bring myself to be motivated. ->","completion":" Negative feeling or emotion"}
+{"prompt":"everyone ignores. not their fault I know. Honestly my best friends have been treating me like dirt and idk what to do. I feel so pointless taken all my mental and emotional energy to even send this. No one cares about me ->","completion":" All-or-nothing thinking"}
+{"prompt":"My girlfriend was ignoring me for a while. She didn't like me anymore. ->","completion":" Mind reading"}
+{"prompt":"My girlfriend was ignoring me for a while. She didn't like me anymore. ->","completion":" Negative feeling or emotion"}
+{"prompt":"My girlfriend was ignoring me for a while. She didn't like me anymore. ->","completion":" All-or-nothing thinking"}
+{"prompt":"My girlfriend was ignoring me for a while. She didn't like me anymore. ->","completion":" Overgeneralizing"}
+{"prompt":"My girlfriend was ignoring me for a while. She didn't like me anymore. ->","completion":" Labeling"}
+{"prompt":"My girlfriend was ignoring me for a while. She didn't like me anymore. ->","completion":" Fortune telling"}
+{"prompt":"My girlfriend was ignoring me for a while. She didn't like me anymore. ->","completion":" Personalizing"}
+{"prompt":"My sister asked my mother about me taking care of her cats instead of asking me directly. I don't matter. ->","completion":" All-or-nothing thinking"}
+{"prompt":"My sister asked my mother about me taking care of her cats instead of asking me directly. I don't matter. ->","completion":" Labeling"}
+{"prompt":"My sister asked my mother about me taking care of her cats instead of asking me directly. I don't matter. ->","completion":" Negative feeling or emotion"}
+{"prompt":"My girlfriend is getting a new job in a distant city. This is going to cause us to break up. ->","completion":" Catastrophizing"}
+{"prompt":"I went on a trip and heard a commercial for a kitchen appliance I feel so anxious maybe I left something turned on in the kitchen ->","completion":" Should statements"}
+{"prompt":"My wife accused me of cheating. She doesn't trust me. ->","completion":" Mind reading"}
+{"prompt":"I finished second in the writing contest Being second means nothing, anyone could have achieved that ->","completion":" Disqualifying the Positive"}
+{"prompt":"I've been sitting at my desk for a long time and I haven't been able to get anything done. Other people are probably doing it better than me. ->","completion":" Comparing and Despairing"}
+{"prompt":"I'm feeling suicidal I can't stop cutting myself ->","completion":" Negative feeling or emotion"}
+{"prompt":"Having problems coming up with words to write essay. I will get a bad grade. ->","completion":" Fortune telling"}
+{"prompt":"Having problems coming up with words to write essay. I will get a bad grade. ->","completion":" Catastrophizing"}
+{"prompt":"Having problems coming up with words to write essay. I will get a bad grade. ->","completion":" All-or-nothing thinking"}
+{"prompt":"I was on a coffee break and my boss reminded me of work that needs to get done. I could get fired. ->","completion":" Catastrophizing"}
+{"prompt":"I was on a coffee break and my boss reminded me of work that needs to get done. I could get fired. ->","completion":" All-or-nothing thinking"}
+{"prompt":"My boss interrupted my break to tell me to work I feel guilty ->","completion":" Emotional reasoning"}
+{"prompt":"My teenage child wanted to go out with friends and I said no I feel horrible about it, I must be a bad parent ->","completion":" Emotional reasoning"}
+{"prompt":"I tried on my wedding dress in front of my family. My mother was excited and told me I was beautiful, but other members of my family made comments about my weight. I was told to not eat and exercise so I could be beautiful. I'm a fat ugly troll. ->","completion":" Labeling"}
+{"prompt":"I tried on my wedding dress in front of my family. My mother was excited and told me I was beautiful, but other members of my family made comments about my weight. I was told to not eat and exercise so I could be beautiful. I'm a fat ugly troll. ->","completion":" Comparing and Despairing"}
+{"prompt":"My partner left me. I did something wrong ->","completion":" Personalizing"}
+{"prompt":"My partner left me. I did something wrong ->","completion":" Overgeneralizing"}
+{"prompt":"The host of a party is giving me one-word responses when I try to talk to them I feel like an outcast ->","completion":" Emotional reasoning"}
+{"prompt":"I know why I am so angry all of the time. like I have this little monster in my head. It just makes me want to abandon everything and hide from everyone so I lash out anymore. I just hate my brain. I am crazy. ->","completion":" Negative feeling or emotion"}
+{"prompt":"My love is leaving, and there's no turning back. What if I never see her again? ->","completion":" Catastrophizing"}
+{"prompt":"My partner left me. I did something wrong ->","completion":" Mind reading"}
+{"prompt":"I lost my house I want to die ->","completion":" Negative feeling or emotion"}
+{"prompt":"I got a bad grade in one of the three assignments How could I have done so badly ->","completion":" Disqualifying the Positive"}
+{"prompt":"I've been applying for jobs and just got a call that someone else filled a position I applied for. I might never get hired. ->","completion":" Overgeneralizing"}
+{"prompt":"My guitar teacher told me I needed to correct my posture I've been practicing but I'm not making any progress ->","completion":" Disqualifying the Positive"}
+{"prompt":"My guitar teacher told me I needed to correct my posture I've been practicing but I'm not making any progress ->","completion":" Overgeneralizing"}
+{"prompt":"I have anxiety, depression, disordered eating, and when I asked if I have ptsd my therapist said I have (whatever). The longest job I had was five months, and majority of my jobs have been part time seasonal work. about as long as worked anywhere else too. I get bored, and my mental illnesses make it hard too. I’ll never be able to hold a job. ->","completion":" Fortune telling"}
+{"prompt":"My friends invited me to go bowling this Saturday I bet all my friends will be amazing at bowling apart from me ->","completion":" Mind reading"}
+{"prompt":"Everyone in my life has left me Someone please kill me ->","completion":" Negative feeling or emotion"}
+{"prompt":"Everyone is mean to me I hate everyone ->","completion":" Negative feeling or emotion"}
+{"prompt":"Everyone is mean to me I hate everyone ->","completion":" Not distorted"}
+{"prompt":"I went on a trip and heard a commercial for a kitchen appliance Did I leave the kitchen stove on? My entire house will burn down ->","completion":" Catastrophizing"}
+{"prompt":"I forgot to give my boss an important message when I was at work. The customer who left the message ended up being very angry because they had a problem that needed to be resolved My boss was pretty upset with me and the customer may take his business elsewhere I feel like a failure ->","completion":" Labeling"}
+{"prompt":"My next door neighbors filed a complaint against us last week blaming our dogs for excessive barking They are so wrong and I'm so pissed but I know I can't prove it and they will probably win because they won't ever admit it and I have to do something right NOW! or I might lose my dogs. ->","completion":" Overgeneralizing"}
+{"prompt":"My next door neighbors filed a complaint against us last week blaming our dogs for excessive barking They are so wrong and I'm so pissed but I know I can't prove it and they will probably win because they won't ever admit it and I have to do something right NOW! or I might lose my dogs. ->","completion":" Catastrophizing"}
+{"prompt":"I am at a party where I do not know very many people. When I try to talk to a stranger, he gives one word replies and then ignores me. . I am being annoying. ->","completion":" Mind reading"}
+{"prompt":"I am at a party where I do not know very many people. When I try to talk to a stranger, he gives one word replies and then ignores me. . I am being annoying. ->","completion":" Emotional reasoning"}
+{"prompt":"At work I was frustrated after a meeting because I was told a certain amount of documents had to be indexed that week. I had a lot of other tasks and I started frantically naming them off. I was not expected to be indexing the full collection of documents like I thought I was so I was later embarassed I had acted so frustrated and snappy. I thought I was being taken advantage of. ->","completion":" Mind reading"}
+{"prompt":"At work I was frustrated after a meeting because I was told a certain amount of documents had to be indexed that week. I had a lot of other tasks and I started frantically naming them off. I was not expected to be indexing the full collection of documents like I thought I was so I was later embarassed I had acted so frustrated and snappy. I thought I was being taken advantage of. ->","completion":" Labeling"}
+{"prompt":"At work I was frustrated after a meeting because I was told a certain amount of documents had to be indexed that week. I had a lot of other tasks and I started frantically naming them off. I was not expected to be indexing the full collection of documents like I thought I was so I was later embarassed I had acted so frustrated and snappy. I thought I was being taken advantage of. ->","completion":" Emotional reasoning"}
+{"prompt":"At work I was frustrated after a meeting because I was told a certain amount of documents had to be indexed that week. I had a lot of other tasks and I started frantically naming them off. I was not expected to be indexing the full collection of documents like I thought I was so I was later embarassed I had acted so frustrated and snappy. I thought I was being taken advantage of. ->","completion":" Blaming"}
+{"prompt":"i dont wanna continue with this life im ready to die ->","completion":" Negative feeling or emotion"}
+{"prompt":"I actually cannot help it on my own. No matter how hard I try, looking at the bright side of things, logically trying to reason things out, giving myself the benefit of the doubt.. Everything is driving me up the wall. Anger, frustration, sadness, you name it. It's like everything I was able to blow off before is just hitting straight at me and it's relentless. Everything driving me nuts... ->","completion":" Not distorted"}
+{"prompt":"I ask out a co-worker who I became fond of recently but was turned down. I won't find someone I can be with ->","completion":" Fortune telling"}
+{"prompt":"I ask out a co-worker who I became fond of recently but was turned down. I won't find someone I can be with ->","completion":" Catastrophizing"}
+{"prompt":"I ask out a co-worker who I became fond of recently but was turned down. I won't find someone I can be with ->","completion":" All-or-nothing thinking"}
+{"prompt":"I ask out a co-worker who I became fond of recently but was turned down. I won't find someone I can be with ->","completion":" Emotional reasoning"}
+{"prompt":"I'm waiting everyday for the weekend and the holidays. I'm not getting anything productive done. I can't bring myself to be motivated. ->","completion":" All-or-nothing thinking"}
+{"prompt":"I invited a co-worker out and they turned me down They will never want to go out with me ->","completion":" Catastrophizing"}
+{"prompt":"I invited a co-worker out and they turned me down They will never want to go out with me ->","completion":" Personalizing"}
+{"prompt":"I was in my grandma's house and I knocked the vase on the floor My grandma will never talk to me again ->","completion":" Catastrophizing"}
+{"prompt":"My wife was supposed to be home by now and she's not and it's raining really bad Did she get in a car crash? ->","completion":" Comparing and Despairing"}
+{"prompt":"My brother and I have been really getting into a lot of fights. This past weekend he blew up again because he thought I was talking over him, but he does it all the time to me. I was upset because of his temper tantrums again, it has been happening too much over the past few or more years. He is supposed to act like an adult now and he isn't. I can't really talk to him anymore because I fear that he will explode, although he does t anyways. I am so angry that he is such a hypocrite. He doesn't realize he is guilty of the same things he explodes about. ->","completion":" Not distorted"}
+{"prompt":"I cant work out what my real personality is because my opinions and moods change all the time and Its like I change into different personalities kind of but its not different conciousmesses its just i dont know how to explain it but I think im insane because I dont know much about who I am because who I am changes and it can change very fast, is this normal? i have no stable identity and I dont know why or if its normal ->","completion":" Overgeneralizing"}
+{"prompt":"I love two people at the same time That I'm going to fail ->","completion":" Catastrophizing"}
+{"prompt":"Meeting an old friend, that I hadn't seen in two decades for lunch. what if i have nothing to say, what if we don't click anymore, what if this goes badly. ->","completion":" Fortune telling"}
+{"prompt":"Recently I found out that one of my coworkers with who I work closely, organized a party and I wasn't invited to the party. I felt left out and singled out in the office and wondered if the person had a personal grudge against me. ->","completion":" Personalizing"}
+{"prompt":"My boss yelled at me I'm feeling sad ->","completion":" Negative feeling or emotion"}
+{"prompt":"My boss yelled at me I'm feeling sad ->","completion":" Not distorted"}
+{"prompt":"My love is leaving, and there's no turning back. What if I never see her again? ->","completion":" Fortune telling"}
+{"prompt":"My boyfriend went to visit his son and wound up spending the entire day with his son and his son's mother while ignoring my phone calls. I thought he was cheating on me ->","completion":" Mind reading"}
+{"prompt":"I yelled at my child for being too fidgety during stories at bedtime. The kids will never settle down. ->","completion":" Overgeneralizing"}
+{"prompt":"My husband asked me to make sure I cleaned the cutting board better. I do so much around here and you are harping about the cutting board? ->","completion":" Blaming"}
+{"prompt":"We had bad storms in our community and some tornadoes came through and destroyed some of the area. No one in our extended family from out of town checked on me. I feel unloved and unwanted by my mother and siblings ->","completion":" Emotional reasoning"}
+{"prompt":"We are not making enough progress on our group project This project is a failure because of John ->","completion":" Blaming"}
+{"prompt":"My boyfriend and I were supposed to go out last night and I got very aggravated at the change of plans and that he pushed back the time. he didn't respect our initial commitment ->","completion":" Negative feeling or emotion"}
+{"prompt":"I forgot to give my boss an important message when I was at work. The customer who left the message ended up being very angry because they had a problem that needed to be resolved My boss was pretty upset with me and the customer may take his business elsewhere I feel like a failure ->","completion":" Not distorted"}
+{"prompt":"I was with friends and misinterpreted a comment and was upset for the wrong reasons. Turns out I misheard what was said and made a big deal out of nothing. Why are my friends treating me so harshly? ->","completion":" Negative feeling or emotion"}
+{"prompt":"I was with friends and misinterpreted a comment and was upset for the wrong reasons. Turns out I misheard what was said and made a big deal out of nothing. Why are my friends treating me so harshly? ->","completion":" Blaming"}
+{"prompt":"I was planning a bachelor party for a friend and some of the people invited were not satisfied with what I was trying to plan. Why can't they cooperate on this? ->","completion":" Personalizing"}
+{"prompt":"I was planning a bachelor party for a friend and some of the people invited were not satisfied with what I was trying to plan. Why can't they cooperate on this? ->","completion":" All-or-nothing thinking"}
+{"prompt":"I was planning a bachelor party for a friend and some of the people invited were not satisfied with what I was trying to plan. Why can't they cooperate on this? ->","completion":" Negative feeling or emotion"}
+{"prompt":"I was planning a bachelor party for a friend and some of the people invited were not satisfied with what I was trying to plan. Why can't they cooperate on this? ->","completion":" Overgeneralizing"}
+{"prompt":"I was planning a bachelor party for a friend and some of the people invited were not satisfied with what I was trying to plan. Why can't they cooperate on this? ->","completion":" Blaming"}
+{"prompt":"I tried to make friends with people but they kept ignoring me. I am not interesting ->","completion":" Negative feeling or emotion"}
+{"prompt":"I tried to make friends with people but they kept ignoring me. I am not interesting ->","completion":" All-or-nothing thinking"}
+{"prompt":"I tried to make friends with people but they kept ignoring me. I am not interesting ->","completion":" Personalizing"}
+{"prompt":"My mom cooked me breakfast and the eggs which she knows i like over medium were over cooked. I became very upset. frustration ->","completion":" Catastrophizing"}
+{"prompt":"I've been sitting at my desk for a long time and I haven't been able to get anything done. I will lose my job eventually. ->","completion":" Catastrophizing"}
+{"prompt":"For many years I've been tutoring students online in math and reading. One of my newer students requested to my supervisor that she be assigned to a different tutor because she didn't like me. I was searching my brain to figure out why she didn't like me, and it made me so sad to think I'd hurt her feelings or caused a problem for her. ->","completion":" Negative feeling or emotion"}
+{"prompt":"In class I feel like others hear my thoughts and judge me. When some things really don't work(for example I have some things for school for tommorow and I can't find how to do that thing after searching hours on internet I get angry and sometimes results to self harm(punching). I sometimes feel like everybody is here just to watch me and see how I react to things(sounds insane). Am I insane? ->","completion":" Labeling"}
+{"prompt":"My boyfriend made fun of me for losing a game. I got upset and we had an argument. I'm really bad at everything I do. ->","completion":" All-or-nothing thinking"}
+{"prompt":"My boyfriend made fun of me for losing a game. I got upset and we had an argument. I'm really bad at everything I do. ->","completion":" Overgeneralizing"}
+{"prompt":"My boss pointed out an unintentional error in my work. I am incapable of doing anything right. ->","completion":" All-or-nothing thinking"}
+{"prompt":"My boss pointed out an unintentional error in my work. I am incapable of doing anything right. ->","completion":" Labeling"}
+{"prompt":"When doing some piecework online, I was told that my work was not good. I worked hard on these jobs, and was sure I had done well. ->","completion":" Overgeneralizing"}
+{"prompt":"They are racist I hate Republicans ->","completion":" Negative feeling or emotion"}
+{"prompt":"They are racist I hate Republicans ->","completion":" Not distorted"}
+{"prompt":"Go fuck yourself Fuck you ->","completion":" Negative feeling or emotion"}
+{"prompt":"Go fuck yourself Fuck you ->","completion":" Not distorted"}
+{"prompt":"Once I was unemployed because I had many faults at work Having done things wrong ->","completion":" Personalizing"}
+{"prompt":"I worried about being late and I almost crashed the car I worry too much ->","completion":" Negative feeling or emotion"}
+{"prompt":"I received a rejection email from a position I applied to. I will never get a job. ->","completion":" Overgeneralizing"}
+{"prompt":"I tried to make a business but I lose I'll never be able to do anything ->","completion":" All-or-nothing thinking"}
+{"prompt":"I just feel unmotivated I just can't get moving ->","completion":" Not distorted"}
+{"prompt":"I left a toxic job that abused me for more than a decade. I thought I found a new job that was better, but realized they lied to me about the job and now I hate working here. I feel like I made a huge mistake. I can never get a break. Every time I try to make a positive change in my life, something happens to ruin it. ->","completion":" Fortune telling"}
+{"prompt":"i celebrated a past holiday by myself why don't i have friends? why am i not social? SIGH! ->","completion":" Overgeneralizing"}
+{"prompt":"I am single and isolated im unlovable ->","completion":" Labeling"}
+{"prompt":"That's what my mom tells me growing up I'm worthless ->","completion":" Overgeneralizing"}
+{"prompt":"That's what my mom tells me growing up I'm worthless ->","completion":" Emotional reasoning"}
+{"prompt":"My sister in law won't speak to me My sister in law thinks I am worthless ->","completion":" Mind reading"}
+{"prompt":"I invited a co-worker out and they turn me down They will never want to go out with me ->","completion":" Labeling"}
+{"prompt":"My crush doesn't like me back Never finding love ->","completion":" Overgeneralizing"}
+{"prompt":"I am under appreciated at work Self worth ->","completion":" Not distorted"}
+{"prompt":"I asked my daughter a question, and she responded in a snotty way. She doesn't love me like she used to. ->","completion":" Personalizing"}
+{"prompt":"I asked my daughter a question, and she responded in a snotty way. She doesn't love me like she used to. ->","completion":" Labeling"}
+{"prompt":"Recent rape, prior trauma, isolation, boredom, loneliness, feeling abandoned and so alone I can't get through this ->","completion":" Negative feeling or emotion"}
+{"prompt":"Becoming broke again. I can't and never will escape this prison at my moms house ->","completion":" Negative feeling or emotion"}
+{"prompt":"My boss pointed out an unintentional error in my work. I am incapable of doing anything right. ->","completion":" Overgeneralizing"}
+{"prompt":"My boss pointed out an unintentional error in my work. I am incapable of doing anything right. ->","completion":" Personalizing"}
+{"prompt":"I don't know why I am writing the essay Nobody cares what I have to say ->","completion":" Overgeneralizing"}
+{"prompt":"I showed a new game idea I have to some friends I have in a chat room we all have together, but only 2 of them responded. My friends aren't interested in my game idea ->","completion":" Mind reading"}
+{"prompt":"I showed a new game idea I have to some friends I have in a chat room we all have together, but only 2 of them responded. My friends aren't interested in my game idea ->","completion":" Personalizing"}
+{"prompt":"I showed a new game idea I have to some friends I have in a chat room we all have together, but only 2 of them responded. My friends aren't interested in my game idea ->","completion":" Negative feeling or emotion"}
+{"prompt":"I showed a new game idea I have to some friends I have in a chat room we all have together, but only 2 of them responded. My friends aren't interested in my game idea ->","completion":" Fortune telling"}
+{"prompt":"I put in a lot of time on an Mturk task and was rejected on an attention request. I suggested a better way of handling these errors (automatic ejection) to the researcher and their answer showed they didn't understand my point. I didn't explain this right. ->","completion":" Personalizing"}
+{"prompt":"While in a group voice chat, everyone left me without saying goodbye. Does nobody want to talk to me? ->","completion":" Mind reading"}
+{"prompt":"While in a group voice chat, everyone left me without saying goodbye. Does nobody want to talk to me? ->","completion":" Personalizing"}
+{"prompt":"Meeting an old friend, that I hadn't seen in two decades for lunch. what if i have nothing to say, what if we don't click anymore, what if this goes badly. ->","completion":" Catastrophizing"}
+{"prompt":"My sister put pictures of everyone but me on her holiday card No one cares about me ->","completion":" Overgeneralizing"}
+{"prompt":"i and my brother were working in the same office were i am his senior and when he does careless mistakes my boss warned me as i am his senior who is responsible for his work my brother is very careless as he has the feeling that there is no one to ask him as his sister is the one who is senior ->","completion":" Overgeneralizing"}
+{"prompt":"I was greatly irritated, almost angry,  when a close friend reached out to me for assistance on taxes.  I usually do them, but I did not want to be bothered this year and felt almost used. I feel my friend used me. ->","completion":" Personalizing"}
+{"prompt":"A friend who is a recent widower has started dating. My friend is ignoring his recently-deceased wife. ->","completion":" Mind reading"}
+{"prompt":"I called my friend three times this past week but she hasn't answered or called\/messaged me back yet. Maybe she doesn't really like me as much as I thought and like her. Maybe I'm awkward. ->","completion":" Mind reading"}
+{"prompt":"A friend who is a recent widower has started dating. My friend is ignoring his recently-deceased wife. ->","completion":" Disqualifying the Positive"}
+{"prompt":"My husband could not understand why I was upset with him. I don't understand why he can't see that he overreacted. ->","completion":" Blaming"}
+{"prompt":"I completely overreacted to my teenage son's grades. Why isn't this kid applying himself? ->","completion":" Overgeneralizing"}
+{"prompt":"My wife didn't look up from her phone or answer me when I came to talk to her. Am I not worth her time? ->","completion":" All-or-nothing thinking"}
+{"prompt":"I'm failing school I'm worthless ->","completion":" Not distorted"}
+{"prompt":"I put in a lot of time on an Mturk task and was rejected on an attention request. I suggested a better way of handling these errors (automatic ejection) to the researcher and their answer showed they didn't understand my point. I didn't explain this right. ->","completion":" Overgeneralizing"}
+{"prompt":"I applied for a promotion but was told I haven't shown the necessary ambition yet. This happened at work where I always go the extra mile, stay late, and even work when I'm not being paid. I feel like the response to my request for a promotion was inaccurate and that I am being taken advantage of because nothing I could do is enough. I was denied the promotion by the department head who is a woman that seems to always talk down to and be rude to men at the company. I felt as if my talents and efforts were being unrecognized by the company yet they are perfectly happy to accept all of my hard work, just not pay me what I deserve for it. ->","completion":" Personalizing"}
+{"prompt":"I was given a wrong dosage of medication by my Doctor.  I couldn't figure out why I felt so bad until I went back to see him. Medication can be dangerous. ->","completion":" All-or-nothing thinking"}
+{"prompt":"Rejected from my dream company I never get what I want ->","completion":" Overgeneralizing"}
+{"prompt":"My boss on the construction site was very mean and aggressive with me. I must not have been doing a good job ->","completion":" Personalizing"}
+{"prompt":"My boss on the construction site was very mean and aggressive with me. I must not have been doing a good job ->","completion":" Negative feeling or emotion"}
+{"prompt":"Your car broke down on the way to work and you are getting late I will lose my job over this! ->","completion":" Catastrophizing"}
+{"prompt":"I was at work and sent info for an ad to our local newspaper. They called me later and said my boss had over-ridden everything and sent them new info. He shouldn't assign me a task if he doesn't trust my work. ->","completion":" Should statements"}
+{"prompt":"I was at work and sent info for an ad to our local newspaper. They called me later and said my boss had over-ridden everything and sent them new info. He shouldn't assign me a task if he doesn't trust my work. ->","completion":" Negative feeling or emotion"}
+{"prompt":"My boyfriend didn't reply back to me instantly. If I text my boyfriend too much, he will get bored of me. ->","completion":" Fortune telling"}
+{"prompt":"My daughter lied to me about a photo on her phone because she was embarrassed she doesnt want to share things with me ->","completion":" Personalizing"}
+{"prompt":"My daughter lied to me about a photo on her phone because she was embarrassed she doesnt want to share things with me ->","completion":" Overgeneralizing"}
+{"prompt":"My Dentist told me I'd need a root canal procedure. I'm going to have to endure some physical and financial pain. ->","completion":" Fortune telling"}
+{"prompt":"I was passed over for a small promotion at my place of work. The person who got the promotion was younger and less experienced than me, but a favorite of the boss. I was angry because I was the better person for the job. ->","completion":" Personalizing"}
+{"prompt":"We had bad storms in our community and some tornadoes came through and destroyed some of the area. No one in our extended family from out of town checked on me. I feel unloved and unwanted by my mother and siblings ->","completion":" All-or-nothing thinking"}
+{"prompt":"My uncle was in a serious accident and ignorant members of my family did not contact me and let me know. The anger I felt because some members of the family do not like me so they refused to let me know about my beloved uncle. ->","completion":" Mind reading"}
+{"prompt":"I am quite fond of a coworker and decide to talk to them. I offer up the idea that it might be fun to go out together sometime, and they respond with the fact they are too busy. I'm not attractive or have a good enough personality. ->","completion":" Labeling"}
+{"prompt":"I am quite fond of a coworker and decide to talk to them. I offer up the idea that it might be fun to go out together sometime, and they respond with the fact they are too busy. I'm not attractive or have a good enough personality. ->","completion":" Negative feeling or emotion"}
+{"prompt":"I am quite fond of a coworker and decide to talk to them. I offer up the idea that it might be fun to go out together sometime, and they respond with the fact they are too busy. I'm not attractive or have a good enough personality. ->","completion":" Mind reading"}
+{"prompt":"I am quite fond of a coworker and decide to talk to them. I offer up the idea that it might be fun to go out together sometime, and they respond with the fact they are too busy. I'm not attractive or have a good enough personality. ->","completion":" Personalizing"}
+{"prompt":"I talk to a close friend online every day because we live in different states. We share a lot about our lives and our messages are usually pretty long. My friend asked me to stop messaging for a while because they felt overwhelmed and wouldn't be able to respond but wanted to at a later time I'm annoying and oversharing ->","completion":" Labeling"}
+{"prompt":"I talk to a close friend online every day because we live in different states. We share a lot about our lives and our messages are usually pretty long. My friend asked me to stop messaging for a while because they felt overwhelmed and wouldn't be able to respond but wanted to at a later time I'm annoying and oversharing ->","completion":" Negative feeling or emotion"}
+{"prompt":"one of my friend posted a video of a spider getting inside a car, and she so happened to have had her car broken into. So i asked her if the police found whoever broke into her car, and she totally ignored me maybe she doesn't like me anymore. ->","completion":" Mind reading"}
+{"prompt":"one of my friend posted a video of a spider getting inside a car, and she so happened to have had her car broken into. So i asked her if the police found whoever broke into her car, and she totally ignored me maybe she doesn't like me anymore. ->","completion":" Personalizing"}
+{"prompt":"I was greatly irritated, almost angry,  when a close friend reached out to me for assistance on taxes.  I usually do them, but I did not want to be bothered this year and felt almost used. I feel my friend used me. ->","completion":" Mind reading"}
+{"prompt":"I was with friends and misinterpreted a comment and was upset for the wrong reasons. Turns out I misheard what was said and made a big deal out of nothing. Why are my friends treating me so harshly? ->","completion":" Personalizing"}
+{"prompt":"I had tentative plans to get together with friends last week, but they never got back to me. they don't really like me ->","completion":" Mind reading"}
+{"prompt":"I had tentative plans to get together with friends last week, but they never got back to me. they don't really like me ->","completion":" All-or-nothing thinking"}
+{"prompt":"My girlfriend wasnt texting anyone, and did not get me anniversary present I am scared my girlfriend is going to break up with me because I dont do much for her. ->","completion":" All-or-nothing thinking"}
+{"prompt":"My girlfriend came home later than usual after work and didn't bother to call and let me know or answer the phone when I called to check on her. She acted like it was not big deal after she came home. My girlfriend is hiding something from me. ->","completion":" Overgeneralizing"}
+{"prompt":"My girlfriend came home later than usual after work and didn't bother to call and let me know or answer the phone when I called to check on her. She acted like it was not big deal after she came home. My girlfriend is hiding something from me. ->","completion":" Catastrophizing"}
+{"prompt":"My husband asked me to make sure I cleaned the cutting board better. I do so much around here and you are harping about the cutting board? ->","completion":" Disqualifying the Positive"}
+{"prompt":"My husband cancelled our wedding anniversary dinner. The thought that he does not care about me anymore. ->","completion":" Mind reading"}
+{"prompt":"My husband and his friends are always speaking Spanish in front of me and I cannot understand anything they are saying things in front of me that they don't want me to know or understand ->","completion":" Negative feeling or emotion"}
+{"prompt":"My husband and his friends are always speaking Spanish in front of me and I cannot understand anything they are saying things in front of me that they don't want me to know or understand ->","completion":" Overgeneralizing"}
+{"prompt":"I asked my husband to get me wine on the way home from work, but he forgot. He is selfish ->","completion":" Labeling"}
+{"prompt":"My husband wants a divorce, I've self isolated for years, my brother died Worthlessness, abandonment, grief ->","completion":" Negative feeling or emotion"}
+{"prompt":"My husband wants a divorce, I've self isolated for years, my brother died Worthlessness, abandonment, grief ->","completion":" Labeling"}
+{"prompt":"I have anxiety, depression, disordered eating, and when I asked if I have ptsd my therapist said I have (whatever). The longest job I had was five months, and majority of my jobs have been part time seasonal work. about as long as worked anywhere else too. I get bored, and my mental illnesses make it hard too. I’ll never be able to hold a job. ->","completion":" Catastrophizing"}
+{"prompt":"I was at my Moms house today and we were talking about my job. She was shocked that I had been there for more than a decade. She felt that it wasn't a good enough job. We were talking in the living room. She gasped as if that was insane. My job is worthless ->","completion":" Catastrophizing"}
+{"prompt":"I was at my Moms house today and we were talking about my job. She was shocked that I had been there for more than a decade. She felt that it wasn't a good enough job. We were talking in the living room. She gasped as if that was insane. My job is worthless ->","completion":" All-or-nothing thinking"}
+{"prompt":"At dinner my mother in law kept trying to tell me how to watch my daughter and was being condensending, I finally got angry and told her to mind her own business. My mother in law thinks I am an incompetent father. ->","completion":" Mind reading"}
+{"prompt":"At dinner my mother in law kept trying to tell me how to watch my daughter and was being condensending, I finally got angry and told her to mind her own business. My mother in law thinks I am an incompetent father. ->","completion":" Negative feeling or emotion"}
+{"prompt":"At dinner my mother in law kept trying to tell me how to watch my daughter and was being condensending, I finally got angry and told her to mind her own business. My mother in law thinks I am an incompetent father. ->","completion":" All-or-nothing thinking"}
+{"prompt":"At dinner my mother in law kept trying to tell me how to watch my daughter and was being condensending, I finally got angry and told her to mind her own business. My mother in law thinks I am an incompetent father. ->","completion":" Labeling"}
+{"prompt":"At dinner my mother in law kept trying to tell me how to watch my daughter and was being condensending, I finally got angry and told her to mind her own business. My mother in law thinks I am an incompetent father. ->","completion":" Personalizing"}
+{"prompt":"Last week I found out that my mother had experienced sudden back pain that lasted for a few days  and I somehow worked myself into a very concerned state where I kind of felt like she was going to become completely incapacitated and have to live in a nursing home. I'm afraid she's going to die soon. ->","completion":" Catastrophizing"}
+{"prompt":"my neighbors downstairs were having a party, and would not be quiet so i had to call the police and not get any sleep before work I am being disrespected ->","completion":" Labeling"}
+{"prompt":"my neighbors downstairs were having a party, and would not be quiet so i had to call the police and not get any sleep before work I am being disrespected ->","completion":" Disqualifying the Positive"}
+{"prompt":"my neighbors downstairs were having a party, and would not be quiet so i had to call the police and not get any sleep before work I am being disrespected ->","completion":" Negative feeling or emotion"}
+{"prompt":"I was driving home with my mother and we were talking about something. I said something stupid that didn't make sense and she called me out on it. My opinions aren't valuable. ->","completion":" Disqualifying the Positive"}
+{"prompt":"I was driving home with my mother and we were talking about something. I said something stupid that didn't make sense and she called me out on it. My opinions aren't valuable. ->","completion":" All-or-nothing thinking"}
+{"prompt":"I was driving home with my mother and we were talking about something. I said something stupid that didn't make sense and she called me out on it. My opinions aren't valuable. ->","completion":" Negative feeling or emotion"}
+{"prompt":"I had dinner plans cancelled by my parents because I my mom was feeling under the weather. I never get to see her anymore. ->","completion":" Disqualifying the Positive"}
+{"prompt":"My partner broke up with me and slept with someone else No one cares about me ->","completion":" Overgeneralizing"}
+{"prompt":"My partner broke up with me and slept with someone else No one cares about me ->","completion":" Mind reading"}
+{"prompt":"My girlfriend was distracted by other men at the gym. I'm not attractive enough. ->","completion":" Mind reading"}
+{"prompt":"My girlfriend was distracted by other men at the gym. I'm not attractive enough. ->","completion":" Personalizing"}
+{"prompt":"My partner was visiting her daughter, who was having surgery.  I got annoyed with her on the phone because she was being distracted. I wanted her to pay attention and not interrupt me. ->","completion":" Personalizing"}
+{"prompt":"I got in a fight with my roommate over the bathroom He's so damn inconsiderate ->","completion":" Labeling"}
+{"prompt":"A Roomate of mine stole my comptuer Someone I trusted stole something valuable of mine, I was extremely angry and wanted justice ->","completion":" Emotional reasoning"}
+{"prompt":"My sister tried to commit suicide whilst at middle school I was not a good enough sister ->","completion":" Labeling"}
+{"prompt":"My sister tried to commit suicide whilst at middle school I was not a good enough sister ->","completion":" Overgeneralizing"}
+{"prompt":"I came home to find an ambulance and firetruck in front of my house.  I feared something had happened to my old mom.  I ran in the house to find everything was fine and that the ambulance was for our neighbor.  I screamed at my sister for not texting me to tell me that the ambulance was not for my mom when she knew I was coming home at that time.  She told me it had just arrived and there was no time to let me know but I was still irrationally angry at her.  And instead of being happy that my mom was ok I was instead angry at my sister. my sister was thoughtless to not call me ->","completion":" Negative feeling or emotion"}
+{"prompt":"I got a parking ticket because my sister forgot to register for overnight parking in front of my house. I am responsible for her mistakes. ->","completion":" Blaming"}
+{"prompt":"I got a parking ticket because my sister forgot to register for overnight parking in front of my house. I am responsible for her mistakes. ->","completion":" Personalizing"}
+{"prompt":"My sister tried to commit suicide whilst at middle school I was not a good enough sister ->","completion":" Personalizing"}
+{"prompt":"I completely overreacted to my teenage son's grades. Why isn't this kid applying himself? ->","completion":" All-or-nothing thinking"}
+{"prompt":"I was told that I don't look as attractive as I used to by my significant other. She told me that she does not like the way that I have been dressing lately and that I should go back to my old style of dressing. I can recall feeling embarrassed and let down with myself. I felt very tiny and as though my relationship was falling apart because she was starting to become very superficial. What am I doing to deserve this? ->","completion":" Labeling"}
+{"prompt":"My spouse got a new gaming console and spends most of his free time playing video games. I am not good enough for him. ->","completion":" Labeling"}
+{"prompt":"My spouse got a new gaming console and spends most of his free time playing video games. I am not good enough for him. ->","completion":" All-or-nothing thinking"}
+{"prompt":"My spouse got a new gaming console and spends most of his free time playing video games. I am not good enough for him. ->","completion":" Negative feeling or emotion"}
+{"prompt":"My spouse got a new gaming console and spends most of his free time playing video games. I am not good enough for him. ->","completion":" Overgeneralizing"}
+{"prompt":"My spouse got a new gaming console and spends most of his free time playing video games. I am not good enough for him. ->","completion":" Mind reading"}
+{"prompt":"My spouse got a new gaming console and spends most of his free time playing video games. I am not good enough for him. ->","completion":" Personalizing"}
+{"prompt":"My spouse got a new gaming console and spends most of his free time playing video games. I am not good enough for him. ->","completion":" Catastrophizing"}
+{"prompt":"When doing some piecework online, I was told that my work was not good. I worked hard on these jobs, and was sure I had done well. ->","completion":" Negative feeling or emotion"}
+{"prompt":"I did badly in a writing contest I entered. I did not final. I am a bad writer. ->","completion":" All-or-nothing thinking"}
+{"prompt":"My wife accused me of cheating. She doesn't trust me. ->","completion":" Overgeneralizing"}
+{"prompt":"I'm afraid of pregnancy and I think i'm not mentally or emotionally prepared I can't be a mother ->","completion":" Fortune telling"}
+{"prompt":"I am unable to write the essay My laptop is crap! If only I had a better laptop, I could have been better at writing ->","completion":" Negative feeling or emotion"}
+{"prompt":"A student let me know they are struggling to grasp any of the concepts in class. Am I not explaining the material well? ->","completion":" All-or-nothing thinking"}
+{"prompt":"A student let me know they are struggling to grasp any of the concepts in class. Am I not explaining the material well? ->","completion":" Personalizing"}
+{"prompt":"I tried to make friends with people but they kept ignoring me. I am not interesting ->","completion":" Labeling"}
+{"prompt":"My wife sat me down and said she needed me to make more money because she is tired of paying rent by herself i was letting her down and she felt pressured by my actions ->","completion":" Overgeneralizing"}
+{"prompt":"Recent panic attack I'm not going to live up to my expectations for my future ->","completion":" Fortune telling"}
+{"prompt":"My girlfriend was distracted by other men at the gym. I'm not attractive enough. ->","completion":" Overgeneralizing"}
+{"prompt":"I'm failing school I'm worthless ->","completion":" Comparing and Despairing"}
+{"prompt":"I painted with my friends The color in their work is so much more vibrant, mine doesn't look this good ->","completion":" Comparing and Despairing"}
+{"prompt":"Working on a project with Python and have not gotten it to successfully run. Why is it still messed up? ->","completion":" Disqualifying the Positive"}
+{"prompt":"I couldn't talk confidently with a stranger My parents are to blame for my lack of confidence ->","completion":" Blaming"}
+{"prompt":"I saw my best friend kissing with my long time crush No one cares about me ->","completion":" Negative feeling or emotion"}
+{"prompt":"A few days ago, I got angry at my husband's grandmother who lives next door for beeping her horn till I came out of the house and asking me to come to dinner. She doesn't respect me. ->","completion":" Overgeneralizing"}
+{"prompt":"My girlfriend said I was a taker when I said she did not emotionally support me before going to a movie last Saturday. My girlfriend will leave me. ->","completion":" Fortune telling"}
+{"prompt":"My girlfriend said I was a taker when I said she did not emotionally support me before going to a movie last Saturday. My girlfriend will leave me. ->","completion":" Catastrophizing"}
+{"prompt":"My girlfriend said I was a taker when I said she did not emotionally support me before going to a movie last Saturday. My girlfriend will leave me. ->","completion":" Mind reading"}
+{"prompt":"I can't do anything right and I'm crying over spilling cereal on my bed and dress I'm worthless ->","completion":" All-or-nothing thinking"}
+{"prompt":"Once I was unemployed because I had many faults at work Having done things wrong ->","completion":" Negative feeling or emotion"}
+{"prompt":"Once I was unemployed because I had many faults at work Having done things wrong ->","completion":" All-or-nothing thinking"}
+{"prompt":"Working on a project with Python and have not gotten it to successfully run. Why is it still messed up? ->","completion":" All-or-nothing thinking"}
+{"prompt":"I tried on my wedding dress in front of my family. My mother was excited and told me I was beautiful, but other members of my family made comments about my weight. I was told to not eat and exercise so I could be beautiful. I'm a fat ugly troll. ->","completion":" Disqualifying the Positive"}
+{"prompt":"I tried on my wedding dress in front of my family. My mother was excited and told me I was beautiful, but other members of my family made comments about my weight. I was told to not eat and exercise so I could be beautiful. I'm a fat ugly troll. ->","completion":" Catastrophizing"}
+{"prompt":"I invited a co-worker out and they turned me down They will never want to go out with me ->","completion":" Fortune telling"}
+{"prompt":"I invited a co-worker out and they turned me down They will never want to go out with me ->","completion":" Overgeneralizing"}
+{"prompt":"I was walking in a poorly lit downtown area when a man approached me and asked for money. I told him I had none, and he started cussing me out and following me. I eventually started running and he finally stopped following. He is going to hurt me ->","completion":" Catastrophizing"}
+{"prompt":"I had been working on a project at work for a very long time, but a higher up manager contacted my boss and asked about it, insinuating I wasn't delivering it fast enough. I'm working on this as fast as I possibly can ->","completion":" Catastrophizing"}
+{"prompt":"I was on the phone with my boyfriend and he got a call on the other line. I assumed it was another girl calling him. I am not good enough. ->","completion":" Not distorted"}
+{"prompt":"My boss pointed out an unintentional error in my work This work is a failure ->","completion":" All-or-nothing thinking"}
+{"prompt":"My Dentist told me I'd need a root canal procedure. I'm going to have to endure some physical and financial pain. ->","completion":" Catastrophizing"}
+{"prompt":"I was reprimanded at work for standing up to a coworker who was bullying another co-worker. It was unfair that I was the one to get in trouble for defending a weaker person. ->","completion":" All-or-nothing thinking"}
+{"prompt":"I saw my best friend kissing with my long time crush No one cares about me ->","completion":" Overgeneralizing"}
+{"prompt":"I wave to an acquaintance and get no response. I don't make a memorable impression on people. ->","completion":" Mind reading"}
+{"prompt":"last week i went in for a job interview that i thought went very well but then i didnt get the job ill never be able to find a good job ->","completion":" Fortune telling"}
+{"prompt":"last week i went in for a job interview that i thought went very well but then i didnt get the job ill never be able to find a good job ->","completion":" Catastrophizing"}
+{"prompt":"Last week, my co-worker was invited to participate in a workshop and I was not. My co-worker is better than me. ->","completion":" Comparing and Despairing"}
+{"prompt":"Last week, my co-worker was invited to participate in a workshop and I was not. My co-worker is better than me. ->","completion":" Personalizing"}
+{"prompt":"My husband and his friends are always speaking Spanish in front of me and I cannot understand anything they are saying things in front of me that they don't want me to know or understand ->","completion":" Personalizing"}
+{"prompt":"I found a job I thought was perfect for me in the field I used to work in and love very much. A few days after putting in a resume and lining up several references, I found out the job was filled and I didn't even get so much as an acknowledgment of my application much less an interview when I was extremely qualified. why can't I ever get anything I want ->","completion":" Overgeneralizing"}
+{"prompt":"I came home to find my spouse had taken all of his things and left a note saying our marriage was over. My marriage is over. ->","completion":" Catastrophizing"}
+{"prompt":"My inabilities cost me my job. I would not find a job ->","completion":" Overgeneralizing"}
+{"prompt":"My boyfriend made fun of me for losing a game. I got upset and we had an argument. I'm really bad at everything I do. ->","completion":" Labeling"}
+{"prompt":"My relationship ended out of nowhere, constantly stressed about my job, i ever feel like be worth it to another person or to my friends unless they need something. I don’t feel like I’m worth it. ->","completion":" All-or-nothing thinking"}
+{"prompt":"My relationshi ended out of nowhere, constantly stressed about my job, i ever feel like be worth it to another person or to my friends unless they need something. I don’t feel like I’m worth it. ->","completion":" Catastrophizing"}
+{"prompt":"I got bad grades in the exam My teacher is the reason I'm not doing well ->","completion":" Blaming"}
+{"prompt":"I'm organizing a birthday party for my kid My niece's birthday party had twice the amount of people, our party will be rubbish in comparison ->","completion":" Comparing and Despairing"}
+{"prompt":"They did not convert me as permanent at work I'm a failure ->","completion":" All-or-nothing thinking"}
+{"prompt":"I was passed over for a small promotion at my place of work. The person who got the promotion was younger and less experienced than me, but a favorite of the boss. I was angry because I was the better person for the job. ->","completion":" Should statements"}
+{"prompt":"Recently I found out that one of my coworkers with who I work closely, organized a party and I wasn't invited to the party. I felt left out and singled out in the office and wondered if the person had a personal grudge against me. ->","completion":" Mind reading"}
+{"prompt":"I am walking down the street in a new red jeans and a stranger looked at the jeans I should have never worn these jeans and stick to blue ones ->","completion":" Should statements"}
+{"prompt":"a girl i really liked would not go out on a date with me im not very attractive ->","completion":" All-or-nothing thinking"}
+{"prompt":"a girl i really liked would not go out on a date with me im not very attractive ->","completion":" Labeling"}
+{"prompt":"I've been sitting at my desk for a long time and I haven't been able to get anything done. I will lose my job eventually. ->","completion":" Fortune telling"}
+{"prompt":"My girlfriend said I was a taker when I said she did not emotionally support me before going to a movie last Saturday. My girlfriend will leave me. ->","completion":" Negative feeling or emotion"}
+{"prompt":"I did badly in a writing contest I entered. I did not final. I am a bad writer. ->","completion":" Labeling"}
+{"prompt":"I did badly in a writing contest I entered. I did not final. I am a bad writer. ->","completion":" Overgeneralizing"}
+{"prompt":"Last week, my co-worker was invited to participate in a workshop and I was not. My co-worker is better than me. ->","completion":" Labeling"}
+{"prompt":"I made a joke that fell flat in front of someone I just met, and that person left the room. People will never perceive me as acting naturally in social situations. ->","completion":" Fortune telling"}
+{"prompt":"I made a joke that fell flat in front of someone I just met, and that person left the room. People will never perceive me as acting naturally in social situations. ->","completion":" Overgeneralizing"}
+{"prompt":"My crush doesn't like me back Never finding love ->","completion":" All-or-nothing thinking"}
+{"prompt":"The team captain on my gaming team approached me to try to remove me as the vice captain on the team citing that they didn't think I was doing enough to assist them. You hardly communicate what you need at all. How am I supposed to help? ->","completion":" Personalizing"}
+{"prompt":"The team captain on my gaming team approached me to try to remove me as the vice captain on the team citing that they didn't think I was doing enough to assist them. You hardly communicate what you need at all. How am I supposed to help? ->","completion":" Blaming"}
+{"prompt":"The team captain on my gaming team approached me to try to remove me as the vice captain on the team citing that they didn't think I was doing enough to assist them. You hardly communicate what you need at all. How am I supposed to help? ->","completion":" Negative feeling or emotion"}
+{"prompt":"My uncle was in a serious accident and ignorant members of my family did not contact me and let me know. The anger I felt because some members of the family do not like me so they refused to let me know about my beloved uncle. ->","completion":" Personalizing"}
+{"prompt":"Time is running short on the workday, my boss asks me if I can finish a task that will require me to stay for a few extra hours. Why would you wait until the last minute to ask me this. ->","completion":" Blaming"}
+{"prompt":"I called a woman I love by accident during a bad time She will never love me now ->","completion":" Fortune telling"}
+{"prompt":"I called a woman I love by accident during a bad time She will never love me now ->","completion":" Catastrophizing"}
+{"prompt":"My sister put pictures of everyone but me on her holiday card No one cares about me ->","completion":" Negative feeling or emotion"}
+{"prompt":"I keep pushing myself towards new things. I keep working, studying, socializing, exercising. I'm doing far more thab anyonr I know and I still go to sleep every night, hoping I won't wake up. I'm everything I can and I still feel like shit ->","completion":" Disqualifying the Positive"}
+{"prompt":"I lost my best friend. I'm a male and she was the nicest girl I've ever met. But I fucked it. I started to take her for granted, started to overthink, to take everything too seriously, I was jealous, selfish and though only of my own interests and not of hers feelings it's all my fault ->","completion":" All-or-nothing thinking"}
+{"prompt":"im scared of the human mind i cant trust people ->","completion":" Fortune telling"}
+{"prompt":"We are late to the dinner party The party is spoilt because of us ->","completion":" Personalizing"}
+{"prompt":"I am at a party where I only know the host and the stranger I don't know why I was invited, I don't know anyone here ->","completion":" Catastrophizing"}
+{"prompt":"Our marriage is lousy The reason my marriage is so lousy is because my husband is totally unreasonable ->","completion":" Blaming"}
+{"prompt":"I gave a present to my friend on her birthday My present was much smaller in size than the others ->","completion":" Comparing and Despairing"}
+{"prompt":"My dad is in the next room in his hospice bed and im afraid of not doing everything right. Am I doing enough ->","completion":" Personalizing"}
+{"prompt":"My brother and I have been really getting into a lot of fights. This past weekend he blew up again because he thought I was talking over him, but he does it all the time to me. I was upset because of his temper tantrums again, it has been happening too much over the past few or more years. He is supposed to act like an adult now and he isn't. I can't really talk to him anymore because I fear that he will explode, although he does t anyways. I am so angry that he is such a hypocrite. He doesn't realize he is guilty of the same things he explodes about. ->","completion":" Negative feeling or emotion"}
+{"prompt":"I mixed up the addresses on two packages and sent them to the wrong place I screwed up again at work ->","completion":" All-or-nothing thinking"}
+{"prompt":"I was driving home with my mother and we were talking about something. I said something stupid that didn't make sense and she called me out on it. My opinions aren't valuable. ->","completion":" Labeling"}
+{"prompt":"Last week I talked to a girl at a bar but was rejected by her I am undesirable ->","completion":" Labeling"}
+{"prompt":"Last week I talked to a girl at a bar but was rejected by her I am undesirable ->","completion":" Negative feeling or emotion"}
+{"prompt":"Last week I talked to a girl at a bar but was rejected by her I am undesirable ->","completion":" All-or-nothing thinking"}
+{"prompt":"Last week I talked to a girl at a bar but was rejected by her I am undesirable ->","completion":" Overgeneralizing"}
+{"prompt":"Nobody finds me attractive other then my boyfriend I am ugly ->","completion":" Negative feeling or emotion"}
+{"prompt":"Nobody finds me attractive other then my boyfriend I am ugly ->","completion":" Labeling"}
+{"prompt":"i posted myself on instagram lack of self-worth ->","completion":" Comparing and Despairing"}
+{"prompt":"I sent my boyfriend several long text messages to which he responded with only one sentence. I'm worried I'm annoying my boyfriend. ->","completion":" Mind reading"}
+{"prompt":"I keep failing at everything. I feel like I need to die to be happy. ->","completion":" Disqualifying the Positive"}
+{"prompt":"I keep failing at everything. I feel like I need to die to be happy. ->","completion":" Emotional reasoning"}
+{"prompt":"They betrayed me. They made me suffer and made me sucidal and depressed and now they are enjoying their life. I want to take revenge ->","completion":" Blaming"}
+{"prompt":"They betrayed me. They made me suffer and made me sucidal and depressed and now they are enjoying their life. I want to take revenge ->","completion":" Comparing and Despairing"}
+{"prompt":"Just being alive. Living is boring and not worth it. Nothing makes me happy or has ever done so. If only i was more selfish i could end it. Doing basic tasks without the threat of making my life even worse is a struggle. ->","completion":" Overgeneralizing"}
+{"prompt":"I feel as though I cannot do anything that is worth a damn. I dream of doing these wonderful things and yet, here I am on my overweight ass not doing anything. I'm mooching off my low-middle class parents with no regard to the future comsequences if I continue to stay at home doing nothing but sleeping and eating along with the occasional gaming or binging sessions. I have enormous self pity and self loathing for myself all the time. I fear of dying acconplishing nothing and yet don't care if I die at the same time. I also blame the world for making it impossible to live while also blaming myself. My life is hypocrisy incarnate. I'm worthless ->","completion":" Should statements"}
+{"prompt":"I feel as though I cannot do anything that is worth a damn. I dream of doing these wonderful things and yet, here I am on my overweight ass not doing anything. I'm mooching off my low-middle class parents with no regard to the future comsequences if I continue to stay at home doing nothing but sleeping and eating along with the occasional gaming or binging sessions. I have enormous self pity and self loathing for myself all the time. I fear of dying acconplishing nothing and yet don't care if I die at the same time. I also blame the world for making it impossible to live while also blaming myself. My life is hypocrisy incarnate. I'm worthless ->","completion":" Labeling"}
+{"prompt":"I hate my life Killing myself ->","completion":" Disqualifying the Positive"}
+{"prompt":"i am a ghost. i am dead. ->","completion":" Emotional reasoning"}
+{"prompt":"My friends don't help me when I ask them to help with my suicidal thoughts. I want to end my life. ->","completion":" Blaming"}
+{"prompt":"Depression that started a few years ago Suicidal thoughts ->","completion":" Negative feeling or emotion"}
+{"prompt":"Depression that started a few years ago Suicidal thoughts ->","completion":" Disqualifying the Positive"}
+{"prompt":"The only people I have left are my 2 friends. It doesn't feel like my family cares, or even anyone else. I dont want my death to cause my own friends to do the same because they're also going through their own problems Deciding if I want to keep living. ->","completion":" Disqualifying the Positive"}
+{"prompt":"Everyday life is too hard and I hate it. I wish I wouldn’t wake up. ->","completion":" Disqualifying the Positive"}
+{"prompt":"I gained weight I hate myself and im a fat pig ->","completion":" Disqualifying the Positive"}
+{"prompt":"I gained weight I hate myself and im a fat pig ->","completion":" Labeling"}
+{"prompt":"I think that I am fatter that everyone else but i am not I feel fat even though I have a strong build and I run alot ->","completion":" Disqualifying the Positive"}
+{"prompt":"I think that I am fatter that everyone else but i am not I feel fat even though I have a strong build and I run alot ->","completion":" Labeling"}
+{"prompt":"I think that I am fatter that everyone else but i am not I feel fat even though I have a strong build and I run alot ->","completion":" Comparing and Despairing"}
+{"prompt":"When I feel ugly and hate my self I will go crazy if I don't control my racing thoughts ->","completion":" Fortune telling"}
+{"prompt":"All of my relationship attempts have ended in failure I feel like I will never be loved in a romantic way because I am not very pretty ->","completion":" Labeling"}
+{"prompt":"All of my relationship attempts have ended in failure I feel like I will never be loved in a romantic way because I am not very pretty ->","completion":" Fortune telling"}
+{"prompt":"All of my relationship attempts have ended in failure I feel like I will never be loved in a romantic way because I am not very pretty ->","completion":" Emotional reasoning"}
+{"prompt":"My sister looking amazing and me looking heinous, people at school being toxic Suicidal thoughts, cutting, depression(I think), wanting to die sometimes, having mental\/emotional break downs at least three times per week ,being lonely despite being surrounded by people,hating my body\/appearance, acts of suicide eg: holding a knife up to my chest and slicing my throat lightly with scissors or knife, comparing myself to others in a really toxic and non realistic way. ->","completion":" Negative feeling or emotion"}
+{"prompt":"My sister looking amazing and me looking heinous, people at school being toxic Suicidal thoughts, cutting, depression(I think), wanting to die sometimes, having mental\/emotional break downs at least three times per week ,being lonely despite being surrounded by people,hating my body\/appearance, acts of suicide eg: holding a knife up to my chest and slicing my throat lightly with scissors or knife, comparing myself to others in a really toxic and non realistic way. ->","completion":" Comparing and Despairing"}
+{"prompt":"My sister looking amazing and me looking heinous, people at school being toxic Suicidal thoughts, cutting, depression(I think), wanting to die sometimes, having mental\/emotional break downs at least three times per week ,being lonely despite being surrounded by people,hating my body\/appearance, acts of suicide eg: holding a knife up to my chest and slicing my throat lightly with scissors or knife, comparing myself to others in a really toxic and non realistic way. ->","completion":" Disqualifying the Positive"}
+{"prompt":"I've made bad choices that could have harmed those close to me that I personally could never forgive. I don't deserve to get better. ->","completion":" Labeling"}
+{"prompt":"I get thoughts that make me do crazy things but they’re actually somewhat logical and I doubt if I should resist them at all I will go crazy if I don't control my racing thoughts ->","completion":" Labeling"}
+{"prompt":"Idk....drugs i guess Self harm and suicide ->","completion":" Negative feeling or emotion"}
+{"prompt":"I'm spending too much time in hateful online forums. As a woman I am inferior to men in every way. ->","completion":" Comparing and Despairing"}
+{"prompt":"I have been struggling with a depressive episode and executive dysfunction. I haven't been keeping up with chores\/responsibilities and hygiene as well as I should be. I can't do anything right. I am a disappointment. ->","completion":" Should statements"}
+{"prompt":"I stayed up for too long, and engaged in behaviors that, while not unethical, were physically taxing and brought me shame. I hate myself. ->","completion":" Should statements"}
+{"prompt":"I stayed up for too long, and engaged in behaviors that, while not unethical, were physically taxing and brought me shame. I hate myself. ->","completion":" Overgeneralizing"}
+{"prompt":"I’m a drug addict I will go crazy if I don't control my racing thoughts ->","completion":" Fortune telling"}
+{"prompt":"I’m a drug addict I will go crazy if I don't control my racing thoughts ->","completion":" Emotional reasoning"}
+{"prompt":"Because I randomly get angry and it's uncontrolled. I feel suicidal ->","completion":" Emotional reasoning"}
+{"prompt":"secret drug use in my room My parents are judging me ->","completion":" Mind reading"}
+{"prompt":"secret drug use in my room My parents are judging me ->","completion":" Blaming"}
+{"prompt":"It's usually after I come home from work and having felt a lot of social anxiety I want to comfort myself with sugar. It's like a great relief and the only happy point in my day. I have a constant need to eat an excessive amount of sugary sweets\/desserts. When I try to eat more healthily for a period of time the need is always worse when I fall back into old unhealthy patterns. Eating balanced feels impossible. ->","completion":" Should statements"}
+{"prompt":"I was addicted to heroin. I don't have a job. ->","completion":" Disqualifying the Positive"}
+{"prompt":"Constant thinking and reminder of past proximity to childhood sexual assault and the inability to know my own history. This body is not mine, it does not belong to me. There is no connection between it and me. ->","completion":" Emotional reasoning"}
+{"prompt":"Constant thinking and reminder of past proximity to childhood sexual assault and the inability to know my own history. This body is not mine, it does not belong to me. There is no connection between it and me. ->","completion":" Negative feeling or emotion"}
+{"prompt":"My father was being abusive to me I feel like people out there try to take advantage of me and also betray me . ->","completion":" Fortune telling"}
+{"prompt":"My father was being abusive to me I feel like people out there try to take advantage of me and also betray me . ->","completion":" Overgeneralizing"}
+{"prompt":"going through toys that reminded me of the time period that id been abused for Getting abused was my fault ->","completion":" Blaming"}
+{"prompt":"I was raped, abused and in pain I want to cease to exist as I am because I am emotionally and physically burnt out ->","completion":" Negative feeling or emotion"}
+{"prompt":"Lost best friend murdered this time of year a few years back. I'm worthless ->","completion":" Emotional reasoning"}
+{"prompt":"Lost best friend murdered this time of year a few years back. I'm worthless ->","completion":" Negative feeling or emotion"}
+{"prompt":"Lost best friend murdered this time of year a few years back. I'm worthless ->","completion":" Blaming"}
+{"prompt":"I read an old journal entry about a time that I was abusive. I will never be in a healthy relationship. ->","completion":" Fortune telling"}
+{"prompt":"i do alot of stuff at home so much work and when my dad comes home from work it never seems enough for him and he spanks\/beats us if we didnt do enough I'll never be able to do anything ->","completion":" Blaming"}
+{"prompt":"i do alot of stuff at home so much work and when my dad comes home from work it never seems enough for him and he spanks\/beats us if we didnt do enough I'll never be able to do anything ->","completion":" Should statements"}
+{"prompt":"Fighting, arguing, anger outburst, feeling powerless Feeling guilty and trapped in an abusive relationship. It reflects on all aspects of my life. ->","completion":" Overgeneralizing"}
+{"prompt":"Someone pushed me and made me bleed No one cares about me ->","completion":" Overgeneralizing"}
+{"prompt":"Someone pushed me and made me bleed No one cares about me ->","completion":" Mind reading"}
+{"prompt":"I didn't complete the tasks that I had written down earlier today. I'll never be able to do anything ->","completion":" Should statements"}
+{"prompt":"I didn't complete the tasks that I had written down earlier today. I'll never be able to do anything ->","completion":" Overgeneralizing"}
+{"prompt":"I didn't complete the tasks that I had written down earlier today. I'll never be able to do anything ->","completion":" Disqualifying the Positive"}
+{"prompt":"I didn't complete the tasks that I had written down earlier today. I'll never be able to do anything ->","completion":" Fortune telling"}
+{"prompt":"I feel slow in progress compared to friends in same age ranges I'm a failure ->","completion":" Comparing and Despairing"}
+{"prompt":"I feel slow in progress compared to friends in same age ranges I'm a failure ->","completion":" Disqualifying the Positive"}
+{"prompt":"I really don't know I will go crazy if I don't control my racing thoughts ->","completion":" Negative feeling or emotion"}
+{"prompt":"I accidentally fell asleep I will go crazy if I don't control my racing thoughts ->","completion":" Catastrophizing"}
+{"prompt":"I don’t do anything of value I'm a failure ->","completion":" Disqualifying the Positive"}
+{"prompt":"There's no situation that leads to this. It's how I live everyday I feel uncomfortable, I have repeating thoughts, I'm always tired, and I feel like I can't think logically and I'm numb. ->","completion":" Negative feeling or emotion"}
+{"prompt":"I failed in everything I'm a failure ->","completion":" Labeling"}
+{"prompt":"I failed in everything I'm a failure ->","completion":" Disqualifying the Positive"}
+{"prompt":"I need to sell my home I am a financial failure ->","completion":" Disqualifying the Positive"}
+{"prompt":"Not having made rent and having to borrow money from my already in debt mother. I am a failure, I have no friends and am a coward, who loses at everything and is still a virgin. Fuck I suck so much, its embarrassing. ->","completion":" Labeling"}
+{"prompt":"I’m a loser I hate myself and I’m ready to die ->","completion":" Labeling"}
+{"prompt":"People around me do not need my presence I'm worthless ->","completion":" Emotional reasoning"}
+{"prompt":"I realize that I still don’t have anyone who I could spend time with, without having a really good excuse for it I’ve had many possibilities to make friendships, but no matter how I give myself to other people, they always settle for someone else. I’ve been used as an emotion trash bucket for other people’s problems and emotions without getting my own turn to share my worries off my shoulders. I’ve never had a friend who I could talk to, who could be there for me when I need them. I can’t help but just think that I’m somehow socially incapable or simply too difficult of a personality to be able to get and maintain friends ->","completion":" Overgeneralizing"}
+{"prompt":"People are always bullying me Everyone hates me ->","completion":" Overgeneralizing"}
