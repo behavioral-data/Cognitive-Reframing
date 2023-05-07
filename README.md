@@ -23,7 +23,7 @@ We conduct a human-centered study of how language models may assist people in re
 
 Our code can be compiled on Python 3 environments. The modules used in our code can be installed using:
 ```
-$ pip install -r requirements.txt
+$ pip install -r requirements
 ```
 
 This code uses OpenAI's python library. Please ensure that you set the OPENAI_API_KEY environment variable to your OpenAI API key. You can find your API key at [platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys).
